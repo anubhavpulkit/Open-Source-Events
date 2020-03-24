@@ -75,6 +75,7 @@ This is a collection of Open Source events and Hackathons. Students always forge
     ### 2- KDE Student Programs [link](https://season.kde.org/)    
     > Focused on offering an opportunity to anyone (not just enrolled students) contributing to the KDE community, this is a program that is comparable to the well-known Google Summer of Code, with some special differences. A key difference is that [SoK](https://community.kde.org/SoK) projects are not limited to code-focused work, but any that benefit our community. For instance, projects can be about documentation, reports, translation, system administration, web and other types of work as well as code.
 
+<hr>
 <br>
 <br>
 <br>

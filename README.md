@@ -74,3 +74,16 @@ This is a collection of Open Source events and Hackathons. Students always forge
 
     ### 2- KDE Student Programs [link](https://season.kde.org/)    
     > Focused on offering an opportunity to anyone (not just enrolled students) contributing to the KDE community, this is a program that is comparable to the well-known Google Summer of Code, with some special differences. A key difference is that [SoK](https://community.kde.org/SoK) projects are not limited to code-focused work, but any that benefit our community. For instance, projects can be about documentation, reports, translation, system administration, web and other types of work as well as code.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## Contribution Guidelines
+
+-   Pick an open issue from the  [issue list](https://github.com/anubhavsingh16/Open-Source-Events/issues)  and claim it in the comments. After approval fix the issue and send us a pull request (PR).
+-   Or you can create a new issue. A community member will get back to you and, if approved, you can fix the issue and send a pull request.
+-   Please go through our issue list first (open as well as closed) and make sure the issue you are reporting does not replicate an issue already reported. If you have issues on multiple pages, report them separately. Do not combine them into a single issue.
+-   All the PR’s need to be sent to the appropriate branch (usually "master").

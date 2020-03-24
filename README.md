@@ -1,6 +1,6 @@
 # Welcome to Open Source Events and Hacakthons
 
-This is a collection of Open Source events and Hackathons. Students always forget the dates of Open Source event and recall after the date is over to fill the form.
+This is collection of Open Source events and Hackathons. We Students always forget the dates of Open Source event and recall after date is over to fill the form.
 
 
 
@@ -23,10 +23,15 @@ This is a collection of Open Source events and Hackathons. Students always forge
 	### 5- Outreachy
 	
 	>**Outreachy**Outreachy provides internships to work in open source and free software.  Outreachy internships are open to applicants around the world. Interns work remotely, and are not required to move. Interns are paid a stipend of $5,500 USD for the three month internship. Interns have a $500 USD travel stipend to attend conferences or events.
-
-
-# <u> October </u>
+	# <u> October </u>
 - ## Open Source Event
 		
-	### 1- Hacktoberfest
+	### 1- Hacktoberfest [link](https://hacktoberfest.digitalocean.com)
 	> Hacktoberfest is a month-long celebration of open source software run by DigitalOcean and DEV. Hacktoberfest is open to everyone in our global community. To participate, four pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
+
+# <u> December </u>
+- ## Hacakthon
+	### 1- SIH (Smart India Hackthon) [link](https://www.sih.gov.in)  [Linkdin](https://www.linkedin.com/company/smart-india-hackathon-2020/) 
+	>-   World’s Biggest Hackathon and Open Innovation model, an initiative by Ministry of HRD 4th edition of highly successful.
+	>-   Smart India Hackathon initiative Involves 2 Lakh+ students with 57,000+ ideas from 2200+ institutions against 530+ problem statements provided by 120+ organizations from across India.
+	>-   Be part of World’s biggest Open Innovation Movement Opportunity to work with some of the best talents in the country

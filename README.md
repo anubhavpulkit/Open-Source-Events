@@ -23,7 +23,7 @@ This is collection of Open Source events and Hackathons. We Students always forg
 	### 5- Outreachy
 	
 	>**Outreachy**Outreachy provides internships to work in open source and free software.  Outreachy internships are open to applicants around the world. Interns work remotely, and are not required to move. Interns are paid a stipend of $5,500 USD for the three month internship. Interns have a $500 USD travel stipend to attend conferences or events.
-	# <u> October </u>
+# <u> October </u>
 - ## Open Source Event
 		
 	### 1- Hacktoberfest [link](https://hacktoberfest.digitalocean.com)

@@ -28,10 +28,12 @@ This is a collection of ***Open Source events and Hackathons***. Students always
 
 # <u> February </u>
 
-- ### 1- STEP(Google) [link](https://careers.google.com/students/engineering-and-technical-internships/)
+- ## Open Source Event
+
+ ### 1- STEP(Google) [link](https://careers.google.com/students/engineering-and-technical-internships/)
     > Our STEP program is a developmental opportunity for ***first- and second-year undergraduate students*** with a passion for technology—especially students from historically underrepresented groups in the field.
     
-- ### 2- Google Summer of Code 
+ ### 2- Google Summer of Code 
     List of accepted mentoring organizations published
     >  ****Google Summer of Code**** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
 

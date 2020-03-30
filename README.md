@@ -7,7 +7,7 @@ This is a collection of ***Open Source events and Hackathons***. Students always
 
 - ## Open Source Event
 
-    ### 1- Google Summer of Code 
+    ### 1- Google Summer of Code [link](https://summerofcode.withgoogle.com)
      Organisation form start
     >  *****Google Summer of Code***** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
     
@@ -15,14 +15,11 @@ This is a collection of ***Open Source events and Hackathons***. Students always
     Student Application form open
     > JIIT Month of Code is an online programme by the open-source club of Jaypee Institute of Information Technology, JIIT Noida-128, the JODC, focused on introducing students to open source software development and documentation writing.
 
-    ### 3- GirlScript Summer of Code 
+    ### 3- GirlScript Summer of Code [link](https://www.gssoc.tech)
     Mentor Application Start
     > **GirlScript Summer of Code** is the 3 months long Open Source program during summers conducted by GirlScript Foundation, started in 2018, with an aim to help beginners get started with Open Source Development while encouraging diversity.
     
-     ###  4- RAILS GIRLS SUMMER OF CODE
-    > **RAILS GIRLS SUMMER OF CODE**is a global fellowship program for ***women and non-binary coders***. Students receive a three-month scholarship to work on existing Open Source projects and expand their skill set.
-  
-    ### 5- Outreachy
+    ### 4- Outreachy [Link](https://www.outreachy.org)
     
     >***Outreachy*** provides internships to work in open source and free software.  Outreachy internships are open to applicants around the world. Interns work remotely and are not required to move. Interns are paid a stipend of $5,500 USD for the three-month internship. Interns have a $500 USD travel stipend to attend conferences or events.
 
@@ -30,16 +27,21 @@ This is a collection of ***Open Source events and Hackathons***. Students always
 
 - ## Open Source Event
 
- ### 1- STEP(Google) [link](https://careers.google.com/students/engineering-and-technical-internships/)
+    ### 1- STEP(Google) [link](https://careers.google.com/students/engineering-and-technical-internships/)
     > Our STEP program is a developmental opportunity for ***first- and second-year undergraduate students*** with a passion for technology—especially students from historically underrepresented groups in the field.
     
- ### 2- Google Summer of Code 
+    ### 2- Google Summer of Code [link](https://summerofcode.withgoogle.com)
+    
     List of accepted mentoring organizations published
     >  ****Google Summer of Code**** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
 
 # <u>March</u>
+
 - ## Open Source Event
 
+###  1- RAILS GIRLS SUMMER OF CODE [link](https://railsgirlssummerofcode.org)
+Student application stage
+   > **RAILS GIRLS SUMMER OF CODE** is a global fellowship program for ***women and non-binary coders***. Students receive a three-month scholarship to work on existing Open Source projects and expand their skill set.
 # <u>April</u>
 - ## Open Source Event
 

@@ -1,4 +1,4 @@
-![im](1.png)
+![im](1.png =1000x350)
 
 This is a collection of ***Open Source events and Hackathons***. Students always forget the dates of Open Source event and recall after the date is over to fill the form.
 

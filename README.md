@@ -1,4 +1,6 @@
-![im](1.png)
+<p align="center">
+ <img width="1000" height="400" src="https://user-images.githubusercontent.com/47811606/78222518-0516cd00-74e3-11ea-966a-3543858435e4.png">
+</p>
 
 This is a collection of ***Open Source events and Hackathons***. Students always forget the dates of Open Source event and recall after the date is over to fill the form.
 

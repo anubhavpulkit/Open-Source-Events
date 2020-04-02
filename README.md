@@ -3,7 +3,7 @@
 This is a collection of ***Open Source events and Hackathons***. Students always forget the dates of Open Source event and recall after the date is over to fill the form.
 
 
-# <u> January </u>
+# <u> :footprints: January :seedling: </u>
 
 - ## Open Source Event
 
@@ -23,7 +23,7 @@ This is a collection of ***Open Source events and Hackathons***. Students always
     
     >***Outreachy*** provides internships to work in open source and free software.  Outreachy internships are open to applicants around the world. Interns work remotely and are not required to move. Interns are paid a stipend of $5,500 USD for the three-month internship. Interns have a $500 USD travel stipend to attend conferences or events.
 
-# <u> February </u>
+# <u> :raising_hand_man: February :herb: </u>
 
 - ## Open Source Event
 
@@ -35,29 +35,29 @@ This is a collection of ***Open Source events and Hackathons***. Students always
     List of accepted mentoring organizations published
     >  ****Google Summer of Code**** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
 
-# <u>March</u>
+# <u> :man_technologist: March :four_leaf_clover: </u>
 
 - ## Open Source Event
 
 ###  1- RAILS GIRLS SUMMER OF CODE [link](https://railsgirlssummerofcode.org)
 Student application stage
    > **RAILS GIRLS SUMMER OF CODE** is a global fellowship program for ***women and non-binary coders***. Students receive a three-month scholarship to work on existing Open Source projects and expand their skill set.
-# <u>April</u>
+# <u> :walking: April</u>
 - ## Open Source Event
 
-# <u>May</u>
+# <u> :massage_man: May :full_moon_with_face:</u>
 - ## Open Source Event
 
-# <u>June</u>
+# <u> :running: June :hourglass_flowing_sand: </u>
 - ## Open Source Event
 
-# <u>July</u>
+# <u> :horse_racing: July :computer: </u>
 - ## Open Source Event
 
-# <u>August</u>
+# <u> :beers: August</u>
 - ## Open Source Event
 
-# <u>September</u>
+# <u> :taxi: September :spades:</u>
 - ## Open Source Event
 
 ### 1- CodeHeat Coding Contest of FOSSASIA  [link](https://codeheat.org)
@@ -66,17 +66,17 @@ Student application stage
 >The contest runs until February. Grand prize winners will be invited to present their work at the [FOSSASIA OpenTechSummit](https://2020.fossasia.org/) in Singapore in March and will get up to 600 SGD in travel funding to attend, plus a free speaker ticket.
 > Other participants will have the chance to win Tshirts, Swag and vouchers to attend Open Tech events in the region and will get certificates of participation.
 
-# <u> October </u>
+# <u> :motorcycle: October :dart: </u>
 - ## Open Source Event
         
     ### 1- Hacktoberfest [link](https://hacktoberfest.digitalocean.com)
     > Hacktoberfest is a month-long celebration of open source software run by DigitalOcean and DEV. Hacktoberfest is open to everyone in our global community. To participate, four pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
     
-# <u> November </u>
+# <u> :red_car: November :trophy: </u>
 - ## Open Source Event
 
     
-# <u> December </u>
+# <u> :earth_americas: December :flight_departure: </u>
 - ## Hacakthon
     ### 1- SIH (Smart India Hackathon) [link](https://www.sih.gov.in)  [Linkdin](https://www.linkedin.com/company/smart-india-hackathon-2020/) 
     >-   ***World’s Biggest Hackathon and Open Innovation model***, an initiative by Ministry of HRD 4th edition of highly successful.

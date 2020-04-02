@@ -5,7 +5,7 @@ This is a collection of ***Open Source events and Hackathons***. Students always
 
 # <u> :footprints: January :seedling: </u>
 
-- ## Open Source Event
+- ## :high_brightness: Open Source Event
 
     ### 1- Google Summer of Code [link](https://summerofcode.withgoogle.com)
      Organisation form start
@@ -25,7 +25,7 @@ This is a collection of ***Open Source events and Hackathons***. Students always
 
 # <u> :raising_hand_man: February :herb: </u>
 
-- ## Open Source Event
+- ## :high_brightness: Open Source Event
 
     ### 1- STEP(Google) [link](https://careers.google.com/students/engineering-and-technical-internships/)
     > Our STEP program is a developmental opportunity for ***first- and second-year undergraduate students*** with a passion for technology—especially students from historically underrepresented groups in the field.
@@ -37,29 +37,29 @@ This is a collection of ***Open Source events and Hackathons***. Students always
 
 # <u> :man_technologist: March :four_leaf_clover: </u>
 
-- ## Open Source Event
+- ## :high_brightness: Open Source Event
 
 ###  1- RAILS GIRLS SUMMER OF CODE [link](https://railsgirlssummerofcode.org)
 Student application stage
    > **RAILS GIRLS SUMMER OF CODE** is a global fellowship program for ***women and non-binary coders***. Students receive a three-month scholarship to work on existing Open Source projects and expand their skill set.
 
 # <u> :walking: April :bulb:</u>
-- ## Open Source Event
+- ## :high_brightness: Open Source Event
 
 # <u> :massage_man: May :full_moon_with_face:</u>
-- ## Open Source Event
+- ## :high_brightness: Open Source Event
 
 # <u> :running: June :hourglass_flowing_sand: </u>
-- ## Open Source Event
+- ## :high_brightness: Open Source Event
 
 # <u> :horse_racing: July :computer: </u>
-- ## Open Source Event
+- ## :high_brightness: Open Source Event
 
 # <u> :beers: August :mag:</u>
-- ## Open Source Event
+- ## :high_brightness: Open Source Event
 
 # <u> :taxi: September :spades:</u>
-- ## Open Source Event
+- ## :high_brightness: Open Source Event
 
 ### 1- CodeHeat Coding Contest of FOSSASIA  [link](https://codeheat.org)
 
@@ -68,23 +68,24 @@ Student application stage
 > Other participants will have the chance to win Tshirts, Swag and vouchers to attend Open Tech events in the region and will get certificates of participation.
 
 # <u> :motorcycle: October :dart: </u>
-- ## Open Source Event
+- ## :high_brightness: Open Source Event
         
     ### 1- Hacktoberfest [link](https://hacktoberfest.digitalocean.com)
     > Hacktoberfest is a month-long celebration of open source software run by DigitalOcean and DEV. Hacktoberfest is open to everyone in our global community. To participate, four pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
     
 # <u> :red_car: November :trophy: </u>
-- ## Open Source Event
+- ## :high_brightness: Open Source Event
 
     
 # <u> :earth_americas: December :flight_departure: </u>
-- ## Hacakthon
+- ## :1st_place_medal: Hackathon
+
     ### 1- SIH (Smart India Hackathon) [link](https://www.sih.gov.in)  [Linkdin](https://www.linkedin.com/company/smart-india-hackathon-2020/) 
     >-   ***World’s Biggest Hackathon and Open Innovation model***, an initiative by Ministry of HRD 4th edition of highly successful.
     >-   Smart India Hackathon initiative Involves 2 Lakh+ students with 57,000+ ideas from 2200+ institutions against 530+ problem statements provided by 120+ organizations from across India.
     >-   Be part of World’s biggest Open Innovation Movement Opportunity to work with some of the best talents in the country
 
-- ## Open Source Event
+- ## :high_brightness: Open Source Event
 
     ### 1- KWoC (Kharagpur Winter of Code)  [link]()
     >Kharagpur Winter of Code is a 5-week long online programme for students who are new to open source software development. The programme not only helps students to get involved in open source, but also prepares them for many open source summer programmes; Google Summer of Code being one of them. The program is hosted by ***Kharagpur Open Source Society*** an independent student group at IIT Kharagpur, but is open to students of any university.

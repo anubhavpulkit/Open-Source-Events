@@ -2,84 +2,127 @@
  <img width="1000" height="400" src="https://user-images.githubusercontent.com/47811606/78222518-0516cd00-74e3-11ea-966a-3543858435e4.png">
 </p>
 
-This is a collection of ***Open Source events and Hackathons***. Students always forget the dates of Open Source event and recall after the date is over to fill the form.
+## This is a collection of ***Open Source events and Hackathons***. Students always forget the dates of Open Source event and recall after the date is over to fill the form.
 
+<br>
 
-# <u> :footprints: January :seedling: </u>
+# <u> :footprints: `January` :seedling: </u>
 
 - ## :high_brightness: Open Source Event
 
     ### 1- Google Summer of Code [link](https://summerofcode.withgoogle.com)
-     Organisation form start
-    >  *****Google Summer of Code***** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
+	     Organisation form start
+     > *****Google Summer of Code***** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
     
     ### 2- JIIT Open-Source Developers Circle (JODC)
-    Student Application form open
+	    Student Application form open
     > JIIT Month of Code is an online programme by the open-source club of Jaypee Institute of Information Technology, JIIT Noida-128, the JODC, focused on introducing students to open source software development and documentation writing.
 
     ### 3- GirlScript Summer of Code [link](https://www.gssoc.tech)
-    Mentor Application Start
+	    Mentor Application Start
     > **GirlScript Summer of Code** is the 3 months long Open Source program during summers conducted by GirlScript Foundation, started in 2018, with an aim to help beginners get started with Open Source Development while encouraging diversity.
     
     ### 4- Outreachy [Link](https://www.outreachy.org)
     
     >***Outreachy*** provides internships to work in open source and free software.  Outreachy internships are open to applicants around the world. Interns work remotely and are not required to move. Interns are paid a stipend of $5,500 USD for the three-month internship. Interns have a $500 USD travel stipend to attend conferences or events.
 
-# <u> :raising_hand_man: February :herb: </u>
+<br>
+
+# <u> :raising_hand_man: `February` :herb: </u>
 
 - ## :high_brightness: Open Source Event
 
     ### 1- STEP(Google) [link](https://careers.google.com/students/engineering-and-technical-internships/)
+	    Deadline for applications
     > Our STEP program is a developmental opportunity for ***first- and second-year undergraduate students*** with a passion for technology—especially students from historically underrepresented groups in the field.
     
     ### 2- Google Summer of Code [link](https://summerofcode.withgoogle.com)
     
-    List of accepted mentoring organizations published
+	    List of accepted mentoring organizations published
     >  ****Google Summer of Code**** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
 
-# <u> :man_technologist: March :four_leaf_clover: </u>
+	### 3- Open Mainframe Project Mentorship Program- Linux Foundation [link](https://www.openmainframeproject.org/projects/mentorship-program)
+		Deadline for applications
+	>  The Open Mainframe Project funds mentees to complete projects during the period between semesters in the months of May, June, July, August, and September. Upon successful completion of the mentorship, mentees are invited to present at an industry conference. The Open Mainframe Project funds travel and expenses for mentees.
+	
+<br>
+
+# <u> :man_technologist: `March` :four_leaf_clover: </u>
 
 - ## :high_brightness: Open Source Event
 
-###  1- RAILS GIRLS SUMMER OF CODE [link](https://railsgirlssummerofcode.org)
-Student application stage
-   > **RAILS GIRLS SUMMER OF CODE** is a global fellowship program for ***women and non-binary coders***. Students receive a three-month scholarship to work on existing Open Source projects and expand their skill set.
+	###  1- RAILS GIRLS SUMMER OF CODE [link](https://railsgirlssummerofcode.org)
+		Student application stage
+	> **RAILS GIRLS SUMMER OF CODE** is a global fellowship program for ***women and non-binary coders***. Students receive a three-month scholarship to work on existing Open Source projects and expand their skill set.
 
-# <u> :walking: April :bulb:</u>
+	###  2- Free Software Foundation [link](https://www.fsf.org/author/fsfweb)
+		Spring Student application
+   > This is an educational opportunity to work with the organization that sponsors the GNU Project, publishes the GNU General Public License (GPL), and fights for software freedom.
+
+<br>
+
+# <u> :walking: `April` :bulb:</u>
+- ## :high_brightness: Open Source Event
+	###  1-RARE Technologies Student Incubator Programme  [link](https://rare-technologies.com/incubator/#details)
+		Student application
+   > Our student Incubator offers a unique mix of academic mentorship, hand-on project work and technical training. It is a highly selective program where you will be mentored by an industry expert as you develop a pragmatic solution to a real-world problem using machine learning.
+
+<br>
+
+# <u> :massage_man: `May` :full_moon_with_face:</u>
 - ## :high_brightness: Open Source Event
 
-# <u> :massage_man: May :full_moon_with_face:</u>
+	###  1- Season of Docs [link](https://developers.google.com/season-of-docs)
+	Organizations announced
+   > **Google Season of Docs** is a program giving technical writers an opportunity to contribute to open source projects, by paying them a three month stipend and facilitating connections between writers and projects. As a platform that’s all about supporting the open source community, we think this is fantastic, because a lot of open source projects really need documentation help.
+
+	###  2-ESA Summer of Code in Space[link](https://socis.esa.int)
+	Organizations announced
+   > ***ESA Summer of Code in Space*** (SOCIS) is a program run by the European Space Agency that focuses on bringing student developers into open source software development for space applications. Students work with a mentoring organization (with potential support from ESA experts) on a 3 month programming project during their summer break.
+   > 
+<br>
+
+# <u> :running: `June` :hourglass_flowing_sand: </u>
 - ## :high_brightness: Open Source Event
 
-# <u> :running: June :hourglass_flowing_sand: </u>
+<br>
+
+# <u> :horse_racing: `July` :computer: </u>
 - ## :high_brightness: Open Source Event
 
-# <u> :horse_racing: July :computer: </u>
+<br>
+
+# <u> :beers: `August` :mag:</u>
 - ## :high_brightness: Open Source Event
 
-# <u> :beers: August :mag:</u>
+<br>
+
+# <u> :taxi: `September` :spades:</u>
 - ## :high_brightness: Open Source Event
 
-# <u> :taxi: September :spades:</u>
-- ## :high_brightness: Open Source Event
+	### 1- CodeHeat Coding Contest of FOSSASIA  [link](https://codeheat.org)
 
-### 1- CodeHeat Coding Contest of FOSSASIA  [link](https://codeheat.org)
+	> In the Heat of the Code is a coding contest for [FOSSASIA projects on GitHub](https://github.com/fossasia/).  
+	>The contest runs until February. Grand prize winners will be invited to present their work at the [FOSSASIA OpenTechSummit](https://2020.fossasia.org/) in Singapore in March and will get up to 600 SGD in travel funding to attend, plus a free speaker ticket.
+	> Other participants will have the chance to win Tshirts, Swag and vouchers to attend Open Tech events in the region and will get certificates of participation.
 
-> In the Heat of the Code is a coding contest for [FOSSASIA projects on GitHub](https://github.com/fossasia/).  
->The contest runs until February. Grand prize winners will be invited to present their work at the [FOSSASIA OpenTechSummit](https://2020.fossasia.org/) in Singapore in March and will get up to 600 SGD in travel funding to attend, plus a free speaker ticket.
-> Other participants will have the chance to win Tshirts, Swag and vouchers to attend Open Tech events in the region and will get certificates of participation.
+<br>
 
-# <u> :motorcycle: October :dart: </u>
+# <u> :motorcycle: `October` :dart: </u>
 - ## :high_brightness: Open Source Event
         
     ### 1- Hacktoberfest [link](https://hacktoberfest.digitalocean.com)
     > Hacktoberfest is a month-long celebration of open source software run by DigitalOcean and DEV. Hacktoberfest is open to everyone in our global community. To participate, four pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
-    
-# <u> :red_car: November :trophy: </u>
+
+<br>
+
+# <u> :red_car: `November` :trophy: </u>
 - ## :high_brightness: Open Source Event
 
-    
-# <u> :earth_americas: December :flight_departure: </u>
+
+<br>
+
+# <u> :earth_americas: `December` :flight_departure: </u>
 - ## :1st_place_medal: Hackathon
 
     ### 1- SIH (Smart India Hackathon) [link](https://www.sih.gov.in)  [Linkdin](https://www.linkedin.com/company/smart-india-hackathon-2020/) 
@@ -102,9 +145,20 @@ Student application stage
 <br>
 <br>
 
-## Contribution Guidelines
+## 🤝 How to Contribute
 
 -   Pick an open issue from the  [issue list](https://github.com/anubhavsingh16/Open-Source-Events/issues)  and claim it in the comments. After approval fix the issue and send us a pull request (PR).
 -   Or you can create a new issue. A community member will get back to you and, if approved, you can fix the issue and send a pull request.
 -   Please go through our issue list first (open as well as closed) and make sure the issue you are reporting does not replicate an issue already reported. If you have issues on multiple pages, report them separately. Do not combine them into a single issue.
 -   All the PR’s need to be sent to the appropriate branch (usually "master").
+
+<br>
+<hr>
+
+📝 **License**
+Licensed under the [MIT License](https://github.com/gatsbyjs/gatsby/blob/master/LICENSE).
+
+  
+
+💜 **Thanks**
+Thanks to our many contributors.

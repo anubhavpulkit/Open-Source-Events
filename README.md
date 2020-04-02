@@ -42,7 +42,8 @@ This is a collection of ***Open Source events and Hackathons***. Students always
 ###  1- RAILS GIRLS SUMMER OF CODE [link](https://railsgirlssummerofcode.org)
 Student application stage
    > **RAILS GIRLS SUMMER OF CODE** is a global fellowship program for ***women and non-binary coders***. Students receive a three-month scholarship to work on existing Open Source projects and expand their skill set.
-# <u> :walking: April</u>
+
+# <u> :walking: April :bulb:</u>
 - ## Open Source Event
 
 # <u> :massage_man: May :full_moon_with_face:</u>
@@ -54,7 +55,7 @@ Student application stage
 # <u> :horse_racing: July :computer: </u>
 - ## Open Source Event
 
-# <u> :beers: August</u>
+# <u> :beers: August :mag:</u>
 - ## Open Source Event
 
 # <u> :taxi: September :spades:</u>

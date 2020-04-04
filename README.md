@@ -118,8 +118,9 @@
         
     ### 1- Hacktoberfest [link](https://hacktoberfest.digitalocean.com)
     >- ***Hacktoberfest*** is a month-long celebration of open source software run by DigitalOcean and DEV. Hacktoberfest is open to everyone in our global community. To participate, four pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
- ### 2- Pycon [link](https://in.pycon.org/2020/)
-    >- ***Pycon***is the premier conference in India on using and developing the Python programming language.
+    ### 2- Pycon [link](https://in.pycon.org/2020/)
+    >- ***Pycon*** is the premier conference in India on using and developing the Python programming language.
+    
 <br>
 
 # <u> :red_car: `November` :trophy: </u>

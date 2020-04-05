@@ -56,11 +56,22 @@
    >- Codess is a community for female coders initiated by Microsoft and was established to explore ways to promote gender diversity in the engineering field. Since its inception in 2013 in London, Codess has been inspiring women in engineering and helping them achieve their professional goals.
    >-  The best part: Approximately 30 participants were extended offers to intern at Microsoft
 	
-	###  2- RAILS GIRLS SUMMER OF CODE [link](https://railsgirlssummerofcode.org)
+	###  2- Google Summer of Earth Engine [link](https://sites.google.com/view/summerofearthengine/home?authuser=0)
+		Student application Start
+   >- **Google Summer of Earth Engine** is a research program for Indian university students & researchers to get a chance to work with leading research organizations in the country working in **environment**, **conservation**, **water resources** and **agricultural** domains over **3 months** of summer on a project and get paid to do so!
+   >- This program is based on the [Google Summer of Code](https://summerofcode.withgoogle.com/) model.
+
+	###  3- RAILS GIRLS SUMMER OF CODE [link](https://railsgirlssummerofcode.org)
 		Student application stage
 	>- **RAILS GIRLS SUMMER OF CODE** is a global fellowship program for ***women and non-binary coders***. Students receive a three-month scholarship to work on existing Open Source projects and expand their skill set.
 
-	###  3- Free Software Foundation [link](https://www.fsf.org/author/fsfweb)
+	###  4- Linux Kernel Mentorship Programlink [Link](https://wiki.linuxfoundation.org/lkmp)
+		Summer Program
+   >- The  [Linux Kernel Mentorship Program](https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing "https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing")  offers a structured remote learning opportunity to aspiring Linux Kernel developers. Experienced Linux Kernel developers and maintainers mentor volunteer mentees and help them become contributors to the Linux Kernel.
+   >- The Linux Kernel Mentorship Program includes three 12-week, full-time volunteer mentee positions, and two 24-week part-time volunteer mentee positions each year. Please check the [Summer 2020 Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule "https://wiki.linuxfoundation.org/lkmp/lkmp_schedule") and get started. **This is a remote opportunity and there is no need to relocate or move to participate.**
+
+	
+	###  4- Free Software Foundation [link](https://www.fsf.org/author/fsfweb)
 		Spring Student application
    >- This is an educational opportunity to work with the organization that sponsors the GNU Project, publishes the GNU General Public License (GPL), and fights for software freedom.
 
@@ -71,6 +82,10 @@
 	###  1-RARE Technologies Student Incubator Programme  [link](https://rare-technologies.com/incubator/#details)
 		Student application
    >- Our student Incubator offers a unique mix of academic mentorship, hand-on project work and technical training. It is a highly selective program where you will be mentored by an industry expert as you develop a pragmatic solution to a real-world problem using machine learning.
+
+	###  2-Igalia Web Engines Hackfest[link](https://www.igalia.com/2020/02/03/The-2020-Web-Engines-Hackfest-is-happening-in-May.html)  
+		Student application in process
+	>- Igalia has been hosting the Web Engines Hackfest every year since 2009. And every year the event has grown bigger, with an increasing number of participants and broader areas of interest.
 
 <br>
 
@@ -90,10 +105,20 @@
 # <u> :running: `June` :hourglass_flowing_sand: </u>
 - ## :high_brightness: Open Source Event
 
+	###  1- Linux Kernel Mentorship Programlink [Link](https://wiki.linuxfoundation.org/lkmp)
+		Fall Program
+   >- The  [Linux Kernel Mentorship Program](https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing "https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing")  offers a structured remote learning opportunity to aspiring Linux Kernel developers. Experienced Linux Kernel developers and maintainers mentor volunteer mentees and help them become contributors to the Linux Kernel.
+
+
 <br>
 
 # <u> :horse_racing: `July` :computer: </u>
 - ## :high_brightness: Open Source Event
+
+	###  1-# Alibaba Summer of Code[link](https://alibaba.github.io)
+		Work begin
+   >- Alibaba Summer of Code is a global program focused on engaging students directly into open source software development. Under the guidance of the mentor in the Alibaba open source project, students experience the software development in the real world.
+   >- On this exclusive developer journey, students will have the opportunity to: Participate in the top projects of the International Open Source Foundation, Get a fast pass of Alibaba Internship/recruitment.
 
 <br>
 
@@ -120,6 +145,12 @@
     >- ***Hacktoberfest*** is a month-long celebration of open source software run by DigitalOcean and DEV. Hacktoberfest is open to everyone in our global community. To participate, four pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
     ### 2- Pycon [link](https://in.pycon.org/2020/)
     >- ***Pycon*** is the premier conference in India on using and developing the Python programming language.
+  
+  ###  3- Linux Kernel Mentorship Programlink [Link](https://wiki.linuxfoundation.org/lkmp)
+		Spring Program
+   >- The  [Linux Kernel Mentorship Program](https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing "https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing")  offers a structured remote learning opportunity to aspiring Linux Kernel developers. Experienced Linux Kernel developers and maintainers mentor volunteer mentees and help them become contributors to the Linux Kernel.
+  
+
     
 <br>
 

@@ -45,6 +45,7 @@
 		Deadline for applications
 	>-  The ***Open Mainframe Project*** funds mentees to complete projects during the period between semesters in the months of May, June, July, August, and September. Upon successful completion of the mentorship, mentees are invited to present at an industry conference. The Open Mainframe Project funds travel and expenses for mentees.
 	
+		
 <br>
 
 # <u> :man_technologist: `March` :four_leaf_clover: </u>
@@ -71,7 +72,7 @@
    >- The Linux Kernel Mentorship Program includes three 12-week, full-time volunteer mentee positions, and two 24-week part-time volunteer mentee positions each year. Please check the [Summer 2020 Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule "https://wiki.linuxfoundation.org/lkmp/lkmp_schedule") and get started. **This is a remote opportunity and there is no need to relocate or move to participate.**
 
 	
-	###  4- Free Software Foundation [link](https://www.fsf.org/author/fsfweb)
+	###  5- Free Software Foundation [link](https://www.fsf.org/author/fsfweb)
 		Spring Student application
    >- This is an educational opportunity to work with the organization that sponsors the GNU Project, publishes the GNU General Public License (GPL), and fights for software freedom.
 
@@ -85,8 +86,14 @@
 
 	###  2-Igalia Web Engines Hackfest[link](https://www.igalia.com/2020/02/03/The-2020-Web-Engines-Hackfest-is-happening-in-May.html)  
 		Student application in process
-	>- Igalia has been hosting the Web Engines Hackfest every year since 2009. And every year the event has grown bigger, with an increasing number of participants and broader areas of interest.
+	>- ***Igalia*** has been hosting the Web Engines Hackfest every year since 2009. And every year the event has grown bigger, with an increasing number of participants and broader areas of interest.
 
+
+	###  3- BOSS - Bountiful Open Source Summer [link](https://lab.codingblocks.com/boss)
+		Student application in process
+	>- Each year we teach hundreds of students coding, programming and software development. Over the past five years (we started off in April 2014), we have helped more than 3000 students gain expertise in Android, Web, Data Science and more.
+	>- BOSS 2019 is open to any _**Indian Student**_. You could be a student enrolled in any school or a college or university.
+	
 <br>
 
 # <u> :massage_man: `May` :full_moon_with_face:</u>
@@ -97,9 +104,19 @@
    >- **Google Season of Docs** is a program giving technical writers an opportunity to contribute to open source projects, by paying them a three month stipend and facilitating connections between writers and projects. As a platform that’s all about supporting the open source community, we think this is fantastic, because a lot of open source projects really need documentation help.
 
 	###  2-ESA Summer of Code in Space[link](https://socis.esa.int)
-		Organizations announced
+		Open Source Software Submission Deadline
    >- ***ESA Summer of Code in Space*** (SOCIS) is a program run by the European Space Agency that focuses on bringing student developers into open source software development for space applications. Students work with a mentoring organization (with potential support from ESA experts) on a 3 month programming project during their summer break.
-   > 
+   
+   ###  3- OSS World Challenge [link](https://www.oss.kr/en_oss_world_challenage)
+		Challenge opens every May			
+   >- **Open Source Software World Challenge** is an annual competition hosted by the Ministry of Science, ICT and Future Planning of Korea.
+   >- Open to anyone national interested in open source software.
+   >- Bring together the gems of open source developers to cultivate developing-skills through cooperated projects which will eventually expand the open source minds/spirit and practices among community.
+
+	###  ACM MM Open Source Software Competition [link](http://sigmm.org/Resources/software/ossc)
+		Deadline for applications
+	>-  The Open Source Software Competition is an important part of the ACM Multimedia program. The competition, now in its 17th edition, is intended to celebrate, encourage and promote the contribution of researchers, software developers and educators to advance the field by providing the community with implementations of codecs, middleware, frameworks, toolkits, libraries, multimedia players, applications, authoring tools, and other multimedia software.
+
 <br>
 
 # <u> :running: `June` :hourglass_flowing_sand: </u>
@@ -115,19 +132,26 @@
 # <u> :horse_racing: `July` :computer: </u>
 - ## :high_brightness: Open Source Event
 
-	###  1-# Alibaba Summer of Code[link](https://alibaba.github.io)
+	###  1- Alibaba Summer of Code[link](https://alibaba.github.io)
 		Work begin
-   >- Alibaba Summer of Code is a global program focused on engaging students directly into open source software development. Under the guidance of the mentor in the Alibaba open source project, students experience the software development in the real world.
+   >- ***Alibaba Summer of Code*** is a global program focused on engaging students directly into open source software development. Under the guidance of the mentor in the Alibaba open source project, students experience the software development in the real world.
    >- On this exclusive developer journey, students will have the opportunity to: Participate in the top projects of the International Open Source Foundation, Get a fast pass of Alibaba Internship/recruitment.
 
 <br>
 
 # <u> :beers: `August` :mag:</u>
-- ## :high_brightness: Open Source Event
+- ## :1st_place_medal: Hackathon
+
+    ### 1- InOut Hackathon  [link](https://hackinout.co)  
+	    Application period start
+    >- ***InOut*** prides itself on being India’s biggest community hackathon.
+	>- Since its inception in 2015, InOut has been a platform where technology leaders and the brightest minds come together to collaborate on building tools that solve real problems. 
 
 <br>
 
+
 # <u> :taxi: `September` :spades:</u>
+
 - ## :high_brightness: Open Source Event
 
 	### 1- CodeHeat Coding Contest of FOSSASIA  [link](https://codeheat.org)
@@ -139,10 +163,13 @@
 <br>
 
 # <u> :motorcycle: `October` :dart: </u>
-- ## :high_brightness: Open Source Event
-        
+
+- ## :high_brightness: Open Source Event        
+    
     ### 1- Hacktoberfest [link](https://hacktoberfest.digitalocean.com)
+	    countdown start
     >- ***Hacktoberfest*** is a month-long celebration of open source software run by DigitalOcean and DEV. Hacktoberfest is open to everyone in our global community. To participate, four pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.
+    
     ### 2- Pycon [link](https://in.pycon.org/2020/)
     >- ***Pycon*** is the premier conference in India on using and developing the Python programming language.
   
@@ -150,15 +177,27 @@
 		Spring Program
    >- The  [Linux Kernel Mentorship Program](https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing "https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing")  offers a structured remote learning opportunity to aspiring Linux Kernel developers. Experienced Linux Kernel developers and maintainers mentor volunteer mentees and help them become contributors to the Linux Kernel.
   
-
+	 ###  4-Halite AI Bot Challenge [Link](https://halite.io/)
+		Program Start
+   >- Halite is an artificial intelligence challenge, created by Two Sigma. Participants write bots using the programming language of their choice to compete in an original online multiplayer game.
     
 <br>
 
 # <u> :red_car: `November` :trophy: </u>
+
+- ## :1st_place_medal: Hackathon
+
+    ### 1- I_Hack (IIT-B) [link](https://www.ecell.in/esummit/ihack/) 
+	    Registration Start 
+    >-   At ***I_Hack***, we bring together India’s best coders, developers, designers, innovators, creators and entrepreneurs of tomorrow. I_Hack is geared up for those who are passionate about building, designing and innovating. It is a 30 Hr event where the enthusiasts meet, develop and compete in the product prototyping competition.
+    >- I_Hack comprises of 3 parallel tracks : **BLOCKCHAIN TRACK**, **SOFTWARE TRACK**, **DATA TRACK**.
+
+
 - ## :high_brightness: Open Source Event
 	
-	Application for Mentor Start
+	
 	### 1- GCI (Google Code In) [link](https://codein.withgoogle.com/about/) 
+		Application for Mentor Start
     >-   ***Google Code-in*** is a contest to introduce pre-university students (ages 13-17) to open source software development. 
     >-  *Mentor Responsibilities*: Help and/or teach the student how to be a part of your community, communicate more effectively and in the open, Keep track of their progress, keep student informed as to their status 
 
@@ -168,18 +207,25 @@
 - ## :1st_place_medal: Hackathon
 
     ### 1- SIH (Smart India Hackathon) [link](https://www.sih.gov.in)  [Linkdin](https://www.linkedin.com/company/smart-india-hackathon-2020/) 
+	    Registration Start
     >-   ***World’s Biggest Hackathon and Open Innovation model***, an initiative by Ministry of HRD 4th edition of highly successful.
     >-   Smart India Hackathon initiative Involves 2 Lakh+ students with 57,000+ ideas from 2200+ institutions against 530+ problem statements provided by 120+ organizations from across India.
     >-   Be part of World’s biggest Open Innovation Movement Opportunity to work with some of the best talents in the country
 
 - ## :high_brightness: Open Source Event
 
-    ### 1- KWoC (Kharagpur Winter of Code)  [link]()
+    ### 1- KWoC (Kharagpur Winter of Code)  [link](https://kwoc.kossiitkgp.org)
+	    Application start
     >Kharagpur Winter of Code is a 5-week long online programme for students who are new to open source software development. The programme not only helps students to get involved in open source, but also prepares them for many open source summer programmes; Google Summer of Code being one of them. The program is hosted by ***Kharagpur Open Source Society*** an independent student group at IIT Kharagpur, but is open to students of any university.
 
     ### 2- KDE Student Programs.  [link](https://season.kde.org/)    
-    > Focused on offering an opportunity to anyone (not just enrolled students) contributing to the KDE community, this is a program that is comparable to the well-known Google Summer of Code, with some special differences. A key difference is that [SoK](https://community.kde.org/SoK) projects are not limited to code-focused work, but any that benefit our community. For instance, projects can be about documentation, reports, translation, system administration, web and other types of work as well as code.
+    >- Focused on offering an opportunity to anyone (not just enrolled students) contributing to the KDE community, this is a program that is comparable to the well-known Google Summer of Code, with some special differences.
+    >- A key difference is that [SoK](https://community.kde.org/SoK) projects are not limited to code-focused work, but any that benefit our community. For instance, projects can be about documentation, reports, translation, system administration, web and other types of work as well as code.
 
+	 ### 3- 24 Pull Requests [link](https://24pullrequests.com/about)    
+    >- 24 Pull Requests' goal is to encourage contribution to open source projects during December. The site suggests open projects, highlights tickets that are good for new contributors, provides [guides for contributing](https://24pullrequests.com/contributing) and promotes good contributions submitted each day.
+    >- The idea is simple: 'Send 24 pull requests between December 1st and December 24th', encouraging contributors to give back to open source projects with little gifts of code throughout December.
+    
 <hr>
 <br>
 <br>

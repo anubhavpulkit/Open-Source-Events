@@ -1,5 +1,5 @@
 <p align="center">
- <img width="1000" height="400" src="https://user-images.githubusercontent.com/47811606/78222518-0516cd00-74e3-11ea-966a-3543858435e4.png">
+ <img width="1000" height="400" src="https://user-images.githubusercontent.com/47811606/79039985-b8c63e00-7c02-11ea-83a7-a7a539d4facd.jpg">
 </p>
 
 ## -> This is a collection of ***Open Source events and Hackathons***. Students always forget the dates of Open Source event and recall after the date is over to fill the form.
@@ -228,25 +228,25 @@
     
 <hr>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 ## 🤝 How to Contribute
 
--   Pick an open issue from the  [issue list](https://github.com/anubhavsingh16/Open-Source-Events/issues)  and claim it in the comments. After approval fix the issue and send us a pull request (PR).
--   Or you can create a new issue. A community member will get back to you and, if approved, you can fix the issue and send a pull request.
--   Please go through our issue list first (open as well as closed) and make sure the issue you are reporting does not replicate an issue already reported. If you have issues on multiple pages, report them separately. Do not combine them into a single issue.
--   All the PR’s need to be sent to the appropriate branch (usually "master").
+### For sending PR:-
+>- Please use any ReadMe editor, my fevouriate editor is [Stackedit.io](https://stackedit.io/app#).
+>- Follow the pattern of doc to add new events in the list.
+>- Add link of the event is important.
+>-   Pick an open issue from the  [issue list](https://github.com/anubhavsingh16/Open-Source-Events/issues)  and claim it in the comments. After approval fix the issue and send us a pull request (PR).
+>-   All the PR’s need to be sent to the appropriate branch (usually "master").
+
+### For Open issue:-
+>-   You can create a new issue and send a pull request.
+>-   Please go through our issue list first (open as well as closed) and make sure the issue you are reporting does not replicate an issue already reported. If you have issues on multiple pages, report them separately. Do not combine them into a single issue.
 
 <br>
 <hr>
 
 📝 **License**
 Licensed under the [MIT License](https://github.com/gatsbyjs/gatsby/blob/master/LICENSE).
-
-  
 
 💜 **Thanks**
 Thanks to our many contributors.

@@ -26,6 +26,11 @@
     
     >- ***Outreachy*** provides internships to work in open source and free software.  Outreachy internships are open to applicants around the world. Interns work remotely and are not required to move. Interns are paid a stipend of $5,500 USD for the three-month internship. Interns have a $500 USD travel stipend to attend conferences or events.
 
+	### 5- OpenCode IIITA [Link](https://opencodeiiita.github.io)
+    
+    >- ***OpenCode*** is a month-long program starting in January for students to start there journey in the world of open source.  
+The Only requirement being an enthusiastic heart to learn.
+
 <br>
 
 # <u> :raising_hand_man: `February` :herb: </u>
@@ -34,7 +39,7 @@
 
     ### 1- STEP(Google) [link](https://careers.google.com/students/engineering-and-technical-internships/)
 	    Deadline for applications
-    >- Our STEP program is a developmental opportunity for ***first- and second-year undergraduate students*** with a passion for technology—especially students from historically underrepresented groups in the field.
+    >- ***STEP*** program is a developmental opportunity for ***first- and second-year undergraduate students*** with a passion for technology—especially students from historically underrepresented groups in the field.
     
     ### 2- Google Summer of Code [link](https://summerofcode.withgoogle.com)
     
@@ -45,6 +50,10 @@
 		Deadline for applications
 	>-  The ***Open Mainframe Project*** funds mentees to complete projects during the period between semesters in the months of May, June, July, August, and September. Upon successful completion of the mentorship, mentees are invited to present at an industry conference. The Open Mainframe Project funds travel and expenses for mentees.
 	
+	### 4- Red Hat Open Source Contest [link](https://research.redhat.com/red-hat-open-source-contest/)
+		Project list available
+	>-  ***Red Hat Open Source Contest*** is a competition for students during which we want to show students how easy it is to participate in open source projects. Students can also get feedback on their code and get it included in a real project. By participating in the Red Hat Open Source Contest students can win nice prizes.
+	>- Exceptional participants may receive offers for an internship at Red Hat. The overall contest winner receives an eshop coupon worth 10,000 CZK
 		
 <br>
 
@@ -54,7 +63,7 @@
 
 	###  1- Codess [link](https://www.codess.net/about-codess/)
 		Phase 1 Student application
-   >- Codess is a community for female coders initiated by Microsoft and was established to explore ways to promote gender diversity in the engineering field. Since its inception in 2013 in London, Codess has been inspiring women in engineering and helping them achieve their professional goals.
+   >- ***Codess*** is a community for female coders initiated by Microsoft and was established to explore ways to promote gender diversity in the engineering field. Since its inception in 2013 in London, Codess has been inspiring women in engineering and helping them achieve their professional goals.
    >-  The best part: Approximately 30 participants were extended offers to intern at Microsoft
 	
 	###  2- Google Summer of Earth Engine [link](https://sites.google.com/view/summerofearthengine/home?authuser=0)
@@ -68,7 +77,7 @@
 
 	###  4- Linux Kernel Mentorship Programlink [Link](https://wiki.linuxfoundation.org/lkmp)
 		Summer Program
-   >- The  [Linux Kernel Mentorship Program](https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing "https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing")  offers a structured remote learning opportunity to aspiring Linux Kernel developers. Experienced Linux Kernel developers and maintainers mentor volunteer mentees and help them become contributors to the Linux Kernel.
+   >- The ***Linux Kernel Mentorship Program*** offers a structured remote learning opportunity to aspiring Linux Kernel developers. Experienced Linux Kernel developers and maintainers mentor volunteer mentees and help them become contributors to the Linux Kernel.
    >- The Linux Kernel Mentorship Program includes three 12-week, full-time volunteer mentee positions, and two 24-week part-time volunteer mentee positions each year. Please check the [Summer 2020 Linux Kernel Mentorship Program](https://wiki.linuxfoundation.org/lkmp/lkmp_schedule "https://wiki.linuxfoundation.org/lkmp/lkmp_schedule") and get started. **This is a remote opportunity and there is no need to relocate or move to participate.**
 
 	
@@ -115,7 +124,7 @@
 
 	### 4- ACM MM Open Source Software Competition [link](http://sigmm.org/Resources/software/ossc)
 		Deadline for applications
-	>-  The Open Source Software Competition is an important part of the ACM Multimedia program. The competition, now in its 17th edition, is intended to celebrate, encourage and promote the contribution of researchers, software developers and educators to advance the field by providing the community with implementations of codecs, middleware, frameworks, toolkits, libraries, multimedia players, applications, authoring tools, and other multimedia software.
+	>-  The Open Source Software Competition is an important part of the ***ACM Multimedia program***. The competition, now in its 17th edition, is intended to celebrate, encourage and promote the contribution of researchers, software developers and educators to advance the field by providing the community with implementations of codecs, middleware, frameworks, toolkits, libraries, multimedia players, applications, authoring tools, and other multimedia software.
 
 <br>
 
@@ -132,7 +141,7 @@
 # <u> :horse_racing: `July` :computer: </u>
 - ## :high_brightness: Open Source Event
 
-	###  1- Alibaba Summer of Code[link](https://alibaba.github.io)
+	###  1- Alibaba Summer of Code [link](https://alibaba.github.io)
 		Work begin
    >- ***Alibaba Summer of Code*** is a global program focused on engaging students directly into open source software development. Under the guidance of the mentor in the Alibaba open source project, students experience the software development in the real world.
    >- On this exclusive developer journey, students will have the opportunity to: Participate in the top projects of the International Open Source Foundation, Get a fast pass of Alibaba Internship/recruitment.
@@ -160,6 +169,11 @@
 	>The contest runs until February. Grand prize winners will be invited to present their work at the [FOSSASIA OpenTechSummit](https://2020.fossasia.org/) in Singapore in March and will get up to 600 SGD in travel funding to attend, plus a free speaker ticket.
 	> Other participants will have the chance to win Tshirts, Swag and vouchers to attend Open Tech events in the region and will get certificates of participation.
 
+	 ### 2- MDG Season of Code- IIT-R [link](http://mdg.iitr.ac.in/soc.html)
+	    countdown start
+   >- ***MDG*** is an active student group of IIT Roorkee directing its efforts towards creating useful mobile applications and promoting tech-based learning for the same.
+   >- Perks - Direct Interview, Mentorship from MDG, T-Shirts and Goodies
+
 <br>
 
 # <u> :motorcycle: `October` :dart: </u>
@@ -177,9 +191,13 @@
 		Spring Program
    >- The  [Linux Kernel Mentorship Program](https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing "https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing")  offers a structured remote learning opportunity to aspiring Linux Kernel developers. Experienced Linux Kernel developers and maintainers mentor volunteer mentees and help them become contributors to the Linux Kernel.
   
-	 ###  4-Halite AI Bot Challenge [Link](https://halite.io/)
+	###  4-Halite AI Bot Challenge [Link](https://halite.io/)
 		Program Start
-   >- Halite is an artificial intelligence challenge, created by Two Sigma. Participants write bots using the programming language of their choice to compete in an original online multiplayer game.
+   >- ***Halite*** is an artificial intelligence challenge, created by Two Sigma. Participants write bots using the programming language of their choice to compete in an original online multiplayer game.
+
+	###  5-NJACK Winter of Code [Link]()
+		Program Announced
+	>- ***NJACK Winter of Code*** is an initiative by NJACK, IIT Patna, targeted at students who have never participated in Free or Open Source Software (FOSS) development before, as well as at those who have already become an expert in Open Source Development and are currently contributing to projects of any domain, say Web, Mobile, Machine Learning, Blockchain, IoT etc.
     
 <br>
 
@@ -216,14 +234,14 @@
 
     ### 1- KWoC (Kharagpur Winter of Code)  [link](https://kwoc.kossiitkgp.org)
 	    Application start
-    >Kharagpur Winter of Code is a 5-week long online programme for students who are new to open source software development. The programme not only helps students to get involved in open source, but also prepares them for many open source summer programmes; Google Summer of Code being one of them. The program is hosted by ***Kharagpur Open Source Society*** an independent student group at IIT Kharagpur, but is open to students of any university.
+    >- ***Kharagpur Winter of Code*** is a 5-week long online programme for students who are new to open source software development. The programme not only helps students to get involved in open source, but also prepares them for many open source summer programmes; Google Summer of Code being one of them. The program is hosted by ***Kharagpur Open Source Society*** an independent student group at IIT Kharagpur, but is open to students of any university.
 
     ### 2- KDE Student Programs.  [link](https://season.kde.org/)    
     >- Focused on offering an opportunity to anyone (not just enrolled students) contributing to the KDE community, this is a program that is comparable to the well-known Google Summer of Code, with some special differences.
     >- A key difference is that [SoK](https://community.kde.org/SoK) projects are not limited to code-focused work, but any that benefit our community. For instance, projects can be about documentation, reports, translation, system administration, web and other types of work as well as code.
 
 	 ### 3- 24 Pull Requests [link](https://24pullrequests.com/about)    
-    >- 24 Pull Requests' goal is to encourage contribution to open source projects during December. The site suggests open projects, highlights tickets that are good for new contributors, provides [guides for contributing](https://24pullrequests.com/contributing) and promotes good contributions submitted each day.
+    >- ***24 Pull Requests*** goal is to encourage contribution to open source projects during December. The site suggests open projects, highlights tickets that are good for new contributors, provides [guides for contributing](https://24pullrequests.com/contributing) and promotes good contributions submitted each day.
     >- The idea is simple: 'Send 24 pull requests between December 1st and December 24th', encouraging contributors to give back to open source projects with little gifts of code throughout December.
     
 <hr>

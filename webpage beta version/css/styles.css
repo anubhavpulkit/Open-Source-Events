@@ -1,0 +1,195 @@
+body{
+  font-family: 'Montserrat';
+  font: 400 15px/1.8 Lato, sans-serif;
+  color: #777;
+}
+
+h1{
+    font-family: 'Montserrat-Black';
+    font-size: 4rem;
+    font-weight: bold;
+    margin-left: 3rem;
+    line-height: 1.5;
+}
+h2{
+  font-family: 'Montserrat-bold';
+  font-size: 60px;
+}
+
+h3{
+  font-family:' Montserrat-bold';
+  font-size: 1.5rem;
+  text-align: center;
+  color: black;
+
+}
+h4{
+  font-family:' Montserrat-bold';
+  font-size: 2rem;
+}
+h5{
+  font-family:' Montserrat-bold';
+  text-align: center;
+}
+#title{
+  background-color:#808080;
+  color: #fff;
+  margin-top: 20%;
+
+}
+
+}
+.container-fluid{
+
+  padding: 80px 120px;
+}
+
+
+
+
+/*navigation Bar*/
+
+.navbar {
+  font-family: 'Montserrat-bold', sans-serif;
+  margin-bottom: 0;
+  background-color: #2d2d30;
+  border: 0;
+  font-size: 11px !important;
+  letter-spacing: 4px;
+  opacity: 0.9;
+}
+.navbar li a, .navbar .navbar-brand {
+  color: #d5d5d5 !important;
+}
+.navbar-nav li a:hover {
+  color: #fff !important;
+}
+.navbar-nav li.active a {
+  color: #fff !important;
+  background-color: #29292c !important;
+}
+.navbar-default .navbar-toggle {
+  border-color: transparent;
+}
+
+
+
+.fab{
+  font-size: 150%;
+}
+
+
+
+.Download-button{
+  margin: 5%;
+}
+
+.image{
+  width: 60%;
+
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
+
+}
+/* features */
+
+
+.fas{
+  padding-bottom: 5px;
+  color: #ef8172;
+  font-size: ;
+}
+.fas:hover{
+  color: #ff4c68;
+}
+#features{
+  background-color: #fff;
+  text-align: center;
+  padding: 7% 15% ;
+  position: relative;
+  z-index:1;
+
+}
+p{
+  margin-left: 10%;
+  width:80%;
+}
+/*testimonial*/
+
+#months{
+background-color: #808080;
+
+color: #fff;
+}
+#months.li{
+  text-align: left;
+  margin-left: 50%;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+
+
+
+
+
+@media (max-width:995px) {
+  #title{
+    text-align: center;
+  }
+
+.image{
+  width:100%;
+  position: static;
+  transform: rotate(0);
+  padding:10% 10% 10% 10%;
+
+
+}
+}
+/* <!-- Call to Action --> */
+
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 7% 15%;
+  font-family:' Montserrat-Black';
+
+}
+.ca{
+  font-size: 4.5rem;
+  padding-bottom: 3%;
+  color: #fff;
+}
+.bt{
+  margin: 15px;
+  margin-left: 3rem;
+}
+.btn {
+  padding: 10px 20px;
+  background-color: #333;
+  color: #f1f1f1;
+  border-radius: 0;
+  transition: .2s;
+}
+.btn:hover, .btn:focus {
+  border: 1px solid #333;
+  background-color: #fff;
+  color: #000;
+}
+
+/* Footer */
+#footer{
+  background-color: #fff;
+  text-align: center;
+  padding: 10% 15% 3%;
+  font-size: 1rem;
+}
+.fa{
+    font-size: 15px;
+    padding-left: 1%;
+}
+.foot{
+  padding: 1%;
+}

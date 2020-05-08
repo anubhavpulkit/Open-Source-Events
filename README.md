@@ -125,7 +125,9 @@ The Only requirement being an enthusiastic heart to learn.
 	### 4- ACM MM Open Source Software Competition [link](http://sigmm.org/Resources/software/ossc)
 		Deadline for applications
 	>-  The Open Source Software Competition is an important part of the ***ACM Multimedia program***. The competition, now in its 17th edition, is intended to celebrate, encourage and promote the contribution of researchers, software developers and educators to advance the field by providing the community with implementations of codecs, middleware, frameworks, toolkits, libraries, multimedia players, applications, authoring tools, and other multimedia software.
-
+	### 5- MLH Fellowship [link](https://fellowship.mlh.io)
+		Application Starts
+	>-  The MLH Fellowship is an internship alternative for software engineers. Instead of working on a project for just one company, you'll contribute to Open Source projects that are used by companies around the world. You'll collaborate with a group of 10 students under the guidance of a professional mentor whose only job is to help you successfully contribute.
 <br>
 
 # <u> :running: `June` :hourglass_flowing_sand: </u>

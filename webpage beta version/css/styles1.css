@@ -134,17 +134,24 @@ h5{
  color: black;
   letter-spacing: 2px;
   line-height: 20px;
+  margin-right: 10%;
+  padding-right: 10%;
 }
 .pa{
   letter-spacing: 2px;
   line-height: 18px;
+  margin-left: 10%;
+  padding-left: 10%
   color:black;
+
+
 }
 .hin{
   font-size: 30px;
-  text-align: center;
+  text-align: left;
 }
 .h{
+  text-align: right;
   font-size: 30px;
 }
 .s1{

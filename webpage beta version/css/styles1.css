@@ -90,7 +90,63 @@ h5{
   background-color:#808080;
   color: #fff;
   margin-top:0;
+-webkit-animation:colorchange 20s infinite alternate;
 }
+@-webkit-keyframes colorchange {
+      0% {
+        
+        color: blue;
+      }
+      
+      10% {
+        
+        color: #ee7752;
+      }
+      
+      20% {
+        
+        color: #9f7287;
+      }
+      
+      30% {
+        
+        color: #23a6d5;
+      }
+      
+      40% {
+        
+        color: #23d5ab;
+      }
+      
+      50% {
+        
+        color: #34495e;
+      }
+      
+      60% {
+        
+        color: #f39da3;
+      }
+      
+      70% {
+        
+        color: #2980b9;
+      }
+      80% {
+     
+        color: #f1c40f;
+      }
+      
+      90% {
+     
+        color: #2980b9;
+      }
+      
+      100% {
+        
+        color: #d8d0b8;
+      }
+    }
 .quotes{
   font-size: 35px;
   margin:7% 5% 5% 5%;
@@ -181,10 +237,30 @@ h5{
 
 
 #months{
-background-color: #808080;
-font-size: 1.2rem;
-color: #fff;
+ 	background: linear-gradient(-45deg, #ee7752, #9f7287, #23a6d5, #23d5ab, #f39da3, #d8d0b8);
+ 	background-size: 400% 400%;
+ 	animation: gradientBG 15s ease infinite;
+	font-size: 1.2rem;
+	color: #fff;
+        border-radius: 10px 1px 1px;
+        box-shadow: 10px 10px 5px grey;
+ }
+
+
+
+ @keyframes gradientBG {
+ 	0% {
+ 		background-position: 0% 50%;
+ 	}
+ 	50% {
+ 		background-position: 100% 50%;
+ 	}
+ 	100% {
+ 		background-position: 0% 50%;
+ 	}
+
 }
+
 #months.li{
   text-align:left;
   margin-left: 50%;

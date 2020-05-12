@@ -46,7 +46,7 @@ h5{
 
 /* header */
 .navbar {
-  font-family: Montserrat, sans-serif;
+  font-family:Times New Roman, serif;
   margin-bottom: 0;
   background-color: #2d2d30;
   border: 0;
@@ -150,6 +150,7 @@ h5{
 .quotes{
   font-size: 35px;
   margin:7% 5% 5% 5%;
+  color: black;
 }
 .image{
   width: 70%;
@@ -268,11 +269,22 @@ h5{
 .carousel-item{
   padding: 7% 15%;
 }
+
 .x{
+  font-family: Parkavenue, cursive;
   font-size: 2.5rem;
+  color: #363062;
 }
 
+ul{
+    padding-left:20%;
+    font-family: Times, serif;
+    font-size: 1.2rem;
 
+}
+p:hover{
+  color: #1d2323;
+}
 
 
 /* CONTACT */

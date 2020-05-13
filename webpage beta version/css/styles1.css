@@ -35,7 +35,9 @@ h5{
 
 
 
-
+ul{
+  list-style-position: outside;
+}
 
 
 

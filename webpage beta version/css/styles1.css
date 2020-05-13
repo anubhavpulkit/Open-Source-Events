@@ -34,9 +34,7 @@ h5{
 }
 
 
-ul{
-  list-style-position: outside;
-}
+
 
 
 
@@ -190,11 +188,7 @@ color: #fff;
 #months.li{
   text-align:left;
   margin-left: 50%;
-
-
 }
-
-
 .carousel-item{
   padding: 7% 15%;
 }

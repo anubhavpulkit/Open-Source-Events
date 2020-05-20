@@ -254,7 +254,7 @@ The Only requirement being an enthusiastic heart to learn.
 ## 🤝 How to Contribute
 
 ### For sending PR:-
->- Please use any ReadMe editor, my fevouriate editor is [Stackedit.io](https://stackedit.io/app#).
+>- Please use any ReadMe editor, my favourite editor is [Stackedit.io](https://stackedit.io/app#).
 >- Follow the pattern of doc to add new events in the list.
 >- Add link of the event is important.
 >-   Pick an open issue from the  [issue list](https://github.com/anubhavsingh16/Open-Source-Events/issues)  and claim it in the comments. After approval fix the issue and send us a pull request (PR).

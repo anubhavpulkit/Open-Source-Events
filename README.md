@@ -1,4 +1,4 @@
-# Vist https://github.com/Catalyst-SMVD/OpenSourceEvents-Frontend for more contribution.
+# Visit https://github.com/Catalyst-SMVD/OpenSourceEvents-Frontend for more contribution.
 
 <p align="center">
  <img width="1000" height="400" src="https://user-images.githubusercontent.com/47811606/79039985-b8c63e00-7c02-11ea-83a7-a7a539d4facd.jpg">

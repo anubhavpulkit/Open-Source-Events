@@ -86,6 +86,11 @@ The Only requirement being an enthusiastic heart to learn.
 	###  5- Free Software Foundation [link](https://www.fsf.org/author/fsfweb)
 		Spring Student application
    >- This is an educational opportunity to work with the organization that sponsors the GNU Project, publishes the GNU General Public License (GPL), and fights for software freedom.
+   
+   ###  6 - Linux Foundation Networking Mentorship - LFN Mentorship [link](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)
+		
+	>- The LF Networking (LFN) intern/mentorship program is aimed at creating a structured hands-on learning opportunity for new developers who may otherwise lack the opportunity to gain exposure to open source software development and entry to the LFN projects' technical communities.
+	>- Each mentee will apply and be matched with a mentor or mentors who are active developers and technologiests contributing to the industry's leading open source networking projects such as ONAP, OPNFV, OpenDaylight, FD.io. Each mentee will work remotely from his/her location of choice.
 
 <br>
 

@@ -119,7 +119,7 @@ The Only requirement being an enthusiastic heart to learn.
 		Organizations announced
    >- **Google Season of Docs** is a program giving technical writers an opportunity to contribute to open source projects, by paying them a three month stipend and facilitating connections between writers and projects. As a platform that’s all about supporting the open source community, we think this is fantastic, because a lot of open source projects really need documentation help.
 
-	###  2-ESA Summer of Code in Space[link](https://socis.esa.int)
+	###  2-ESA Summer of Code in Space[link](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/SOCIS_The_ESA_Summer_of_Code_in_Space)
 		Open Source Software Submission Deadline
    >- ***ESA Summer of Code in Space*** (SOCIS) is a program run by the European Space Agency that focuses on bringing student developers into open source software development for space applications. Students work with a mentoring organization (with potential support from ESA experts) on a 3 month programming project during their summer break.
    

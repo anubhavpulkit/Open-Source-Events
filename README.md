@@ -143,7 +143,11 @@ The Only requirement being an enthusiastic heart to learn.
 	###  1- Linux Kernel Mentorship Programlink [Link](https://wiki.linuxfoundation.org/lkmp)
 		Fall Program
    >- The  [Linux Kernel Mentorship Program](https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing "https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing")  offers a structured remote learning opportunity to aspiring Linux Kernel developers. Experienced Linux Kernel developers and maintainers mentor volunteer mentees and help them become contributors to the Linux Kernel.
-
+   
+   ###  2- PClub Summer Of Code [Link](http://pclubsummerofcode.in)
+		
+   >- PClub Summer of Code is the 2 month long Open Source program during summers conducted by Programming Club, UIET, with an aim to help beginners get started with Open Source Development while encouraging diversity.
+   PSoC is targeted at audience who want to dwell in OpenSource Development as well as who are already into FOSS development. This program will help students for other opensource programs like Gsoc, Outreachy, etc.
 
 <br>
 

@@ -135,6 +135,10 @@ The Only requirement being an enthusiastic heart to learn.
 	### 5- MLH Fellowship [link](https://fellowship.mlh.io)
 		Application Starts
 	>-  The MLH Fellowship is an internship alternative for software engineers. Instead of working on a project for just one company, you'll contribute to Open Source projects that are used by companies around the world. You'll collaborate with a group of 10 students under the guidance of a professional mentor whose only job is to help you successfully contribute.
+	
+	### 5- Jenkins UI/UX Hackfest [link](https://www.jenkins.io/events/online-hackfest/2020-uiux/)
+		Application Starts
+	>- UI/UX Online Hackfest is an online event. The goal to improve the Jenkins user experience, including but not limited to user interface and documentation. We also invite participants to share experiences about Jenkins and to participate in UX testing. The event will have the Jenkins is the Way theme. The most active contributors will get special edition swag and other prizes, see below
 <br>
 
 # <u> :running: `June` :hourglass_flowing_sand: </u>

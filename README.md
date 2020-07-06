@@ -230,11 +230,6 @@ The Only requirement being an enthusiastic heart to learn.
 
 - ## :high_brightness: Open Source Event
 	
-	
-	### 1- GCI (Google Code In) [link](https://codein.withgoogle.com/about/) 
-		Application for Mentor Start
-    >-   ***Google Code-in*** is a contest to introduce pre-university students (ages 13-17) to open source software development. 
-    >-  *Mentor Responsibilities*: Help and/or teach the student how to be a part of your community, communicate more effectively and in the open, Keep track of their progress, keep student informed as to their status 
 
 <br>
 

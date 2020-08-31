@@ -51,6 +51,9 @@ The Only requirement being an enthusiastic heart to learn.
 	### 3- Open Mainframe Project Mentorship Program- Linux Foundation [link](https://www.openmainframeproject.org/projects/mentorship-program)
 		Deadline for applications
 	>-  The ***Open Mainframe Project*** funds mentees to complete projects during the period between semesters in the months of May, June, July, August, and September. Upon successful completion of the mentorship, mentees are invited to present at an industry conference. The Open Mainframe Project funds travel and expenses for mentees.
+	- First Program: July 1 – September 30
+	- Second Program: August 1 – October 31
+	- Third Program: September 1 – November 30
 	
 	### 4- Red Hat Open Source Contest [link](https://research.redhat.com/red-hat-open-source-contest/)
 		Project list available

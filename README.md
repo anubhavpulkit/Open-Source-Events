@@ -22,16 +22,16 @@
 
     ### 3- GirlScript Summer of Code [link](https://www.gssoc.tech)
 	    Mentor Application Start
-    >- **GirlScript Summer of Code** is the 3 months long Open Source program during summers conducted by GirlScript Foundation, started in 2018, with an aim to help beginners get started with Open Source Development while encouraging diversity.
+    >- **GirlScript Summer of Code** is the 3 months long Open Source program during summers conducted by GirlScript Foundation, started in 2018, intending to help beginners get started with Open Source Development while encouraging diversity.
     
     ### 4- Outreachy [Link](https://www.outreachy.org)
     
-    >- ***Outreachy*** provides internships to work in open source and free software.  Outreachy internships are open to applicants around the world. Interns work remotely and are not required to move. Interns are paid a stipend of $5,500 USD for the three-month internship. Interns have a $500 USD travel stipend to attend conferences or events.
+    >- ***Outreachy*** provides internships to work in open source and free software.  Outreachy internships are open to applicants around the world. Interns work remotely and are not required to move. Interns are paid a stipend of $5,500 for the three-month internship. Interns have a $500 travel stipend to attend conferences or events.
 
 	### 5- OpenCode IIITA [Link](https://opencodeiiita.github.io)
     
-    >- ***OpenCode*** is a month-long program starting in January for students to start there journey in the world of open source.  
-The Only requirement being an enthusiastic heart to learn.
+    >- ***OpenCode*** is a month-long program for students to start their journey in the world of open-source. It starts in January.
+The Only requirement is an enthusiastic heart to learn.
 
 <br>
 
@@ -50,7 +50,7 @@ The Only requirement being an enthusiastic heart to learn.
 
 	### 3- Open Mainframe Project Mentorship Program- Linux Foundation [link](https://www.openmainframeproject.org/projects/mentorship-program)
 		Deadline for applications
-	>-  The ***Open Mainframe Project*** funds mentees to complete projects during the period between semesters in the months of May, June, July, August, and September. Upon successful completion of the mentorship, mentees are invited to present at an industry conference. The Open Mainframe Project funds travel and expenses for mentees.
+	>-  The ***Open Mainframe Project*** funds mentees to complete projects during the period between semesters in the months of May, June, July, August, and September. Upon successful completion of the mentorship, mentees are invited to present at an industry conference. The Open Mainframe Project funds to travel and expenses for mentees.
 	- First Program: July 1 – September 30
 	- Second Program: August 1 – October 31
 	- Third Program: September 1 – November 30
@@ -58,7 +58,7 @@ The Only requirement being an enthusiastic heart to learn.
 	### 4- Red Hat Open Source Contest [link](https://research.redhat.com/red-hat-open-source-contest/)
 		Project list available
 	>-  ***Red Hat Open Source Contest*** is a competition for students during which we want to show students how easy it is to participate in open source projects. Students can also get feedback on their code and get it included in a real project. By participating in the Red Hat Open Source Contest students can win nice prizes.
-	>- Exceptional participants may receive offers for an internship at Red Hat. The overall contest winner receives an eshop coupon worth 10,000 CZK
+	>- Exceptional participants may receive offers for an internship at Red Hat. The overall contest winner receives an e-shop coupon worth 10,000 CZK
 		
 <br>
 
@@ -213,7 +213,7 @@ The Only requirement being an enthusiastic heart to learn.
   
 	###  4-Halite AI Bot Challenge [Link](https://halite.io/)
 		Program Start
-   >- ***Halite*** is an artificial intelligence challenge, created by Two Sigma. Participants write bots using the programming language of their choice to compete in an original online multiplayer game.
+   >- ***Halite*** is an artificial intelligence challenge, created by Two Sigma. Participants code bots using the programming language of their choice to compete in an original online multiplayer game.
 
 	###  5-NJACK Winter of Code [Link]()
 		Program Announced
@@ -249,11 +249,11 @@ The Only requirement being an enthusiastic heart to learn.
 
     ### 1- KWoC (Kharagpur Winter of Code)  [link](https://kwoc.kossiitkgp.org)
 	    Application start
-    >- ***Kharagpur Winter of Code*** is a 5-week long online programme for students who are new to open source software development. The programme not only helps students to get involved in open source, but also prepares them for many open source summer programmes; Google Summer of Code being one of them. The program is hosted by ***Kharagpur Open Source Society*** an independent student group at IIT Kharagpur, but is open to students of any university.
+    >- ***Kharagpur Winter of Code*** is a 5-week long online programme for students who are new to open source software development. The programme not only helps students to get involved in open-source, but also prepares them for many open-source summer programmes; Google Summer of Code being one of them. The program is hosted by ***Kharagpur Open Source Society*** an independent student group at IIT Kharagpur, but is open to students of any university.
 
     ### 2- KDE Student Programs.  [link](https://season.kde.org/)    
     >- Focused on offering an opportunity to anyone (not just enrolled students) contributing to the KDE community, this is a program that is comparable to the well-known Google Summer of Code, with some special differences.
-    >- A key difference is that [SoK](https://community.kde.org/SoK) projects are not limited to code-focused work, but any that benefit our community. For instance, projects can be about documentation, reports, translation, system administration, web and other types of work as well as code.
+    >- A key difference is that [SoK](https://community.kde.org/SoK) projects are not limited to code-focused work, but any that benefit our community. For instance, projects can be about documentation, reports, translation, system administration, web and other types of work including code as well.
 
 	 ### 3- 24 Pull Requests [link](https://24pullrequests.com/about)    
     >- ***24 Pull Requests*** goal is to encourage contribution to open source projects during December. The site suggests open projects, highlights tickets that are good for new contributors, provides [guides for contributing](https://24pullrequests.com/contributing) and promotes good contributions submitted each day.
@@ -264,22 +264,23 @@ The Only requirement being an enthusiastic heart to learn.
 
 ## 🤝 How to Contribute
 
-### For sending PR:-
+### For sending a PR:-
 >- Please use any ReadMe editor, my favourite editor is [Stackedit.io](https://stackedit.io/app#).
->- Follow the pattern of doc to add new events in the list.
->- Add link of the event is important.
+>- Follow the pattern of this doc to add new events in the list.
+>- Don't forget to add the link to the event. **(IMPORTANT)**
 >-   Pick an open issue from the  [issue list](https://github.com/anubhavsingh16/Open-Source-Events/issues)  and claim it in the comments. After approval fix the issue and send us a pull request (PR).
 >-   All the PR’s need to be sent to the appropriate branch (usually "master").
 
-### For Open issue:-
->-   You can create a new issue and send a pull request.
+### To Open an issue:-
+>-   You can create a new issue and send us the fix through a pull request.
 >-   Please go through our issue list first (open as well as closed) and make sure the issue you are reporting does not replicate an issue already reported. If you have issues on multiple pages, report them separately. Do not combine them into a single issue.
 
 <br>
 <hr>
 
 📝 **License**
-Licensed under the [MIT License](https://github.com/gatsbyjs/gatsby/blob/master/LICENSE).
+<br>
+ Licensed under the [MIT License](https://github.com/gatsbyjs/gatsby/blob/master/LICENSE).
 
 💜 **Thanks**
-Thanks to our many contributors.
+ to all of our contributors.

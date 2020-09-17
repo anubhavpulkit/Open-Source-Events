@@ -215,7 +215,7 @@ The Only requirement is an enthusiastic heart to learn.
 		Program Start
    >- ***Halite*** is an artificial intelligence challenge, created by Two Sigma. Participants code bots using the programming language of their choice to compete in an original online multiplayer game.
 
-	###  5-NJACK Winter of Code [Link]()
+	###  5-NJACK Winter of Code [Link](https://njackwinterofcode.github.io/)
 		Program Announced
 	>- ***NJACK Winter of Code*** is an initiative by NJACK, IIT Patna, targeted at students who have never participated in Free or Open Source Software (FOSS) development before, as well as at those who have already become an expert in Open Source Development and are currently contributing to projects of any domain, say Web, Mobile, Machine Learning, Blockchain, IoT etc.
     

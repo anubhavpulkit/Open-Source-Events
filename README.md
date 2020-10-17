@@ -12,7 +12,8 @@
   
 - ## :high_brightness: Open Source Event  
   
-	 ### 1- Google Summer of Code [Link](https://summerofcode.withgoogle.com)      Organisation form start  
+	 ### 1- Google Summer of Code [Link](https://summerofcode.withgoogle.com)
+	    Organisation form start  
     >- ***Google Summer of Code*** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.  
   ### 2- JIIT Open-Source Developers Circle [Link](https://jiitodc.netlify.app/)  
 	     Student Application form open  
@@ -59,7 +60,8 @@ The Only requirement is an enthusiastic heart to learn.
   
 - ## :high_brightness: Open Source Event  
   
-	 ###  1- Codess [Link](https://www.codess.net/about-codess/)    Phase 1 Student application  
+	 ###  1- Codess [Link](https://www.codess.net/about-codess/)
+	    Phase 1 Student application  
   >- ***Codess*** is a community for female coders initiated by Microsoft and was established to explore ways to promote gender diversity in the engineering field. Since its inception in 2013 in London, Codess has been inspiring women in engineering and helping them achieve their professional goals.  
 	 >-  The best part: Approximately 30 participants were extended offers to intern at Microsoft .
 	 ###  2- Google Summer of Earth Engine [Link](https://sites.google.com/view/summerofearthengine/home?authuser=0)  
@@ -85,11 +87,12 @@ The Only requirement is an enthusiastic heart to learn.
   
 # <u> :walking: `April` :bulb:</u>  
 - ## :high_brightness: Open Source Event  
-	 ###  1-RARE Technologies Student Incubator Programme  [Link](https://rare-technologies.com/incubator/#details)    Student application  
+	 ###  1- RARE Technologies Student Incubator Programme  [Link](https://rare-technologies.com/incubator/#details)
+	    Student application  
   >- Our student Incubator offers a unique mix of academic mentorship, hand-on project work and technical training. It is a highly selective program where you will be mentored by an industry expert as you develop a pragmatic solution to a real-world problem using machine learning.  
   
-  ###  2-Igalia Web Engines Hackfest [Link](https://www.igalia.com/2020/02/03/The-2020-Web-Engines-Hackfest-is-happening-in-May.html)    
-	   Student application in process  
+  ###  2- Igalia Web Engines Hackfest [Link](https://www.igalia.com/2020/02/03/The-2020-Web-Engines-Hackfest-is-happening-in-May.html)    
+        Student application in process  
   >- ***Igalia*** has been hosting the Web Engines Hackfest every year since 2009. And every year the event has grown bigger, with an increasing number of participants and broader areas of interest.  
   
   ###  3- BOSS - Bountiful Open Source Summer [Link](https://lab.codingblocks.com/boss)  
@@ -102,10 +105,11 @@ The Only requirement is an enthusiastic heart to learn.
 # <u> :massage_man: `May` :full_moon_with_face:</u>  
 - ## :high_brightness: Open Source Event  
   
-	 ###  1- Season of Docs [Link](https://developers.google.com/season-of-docs)    Organizations announced  
+	 ###  1- Season of Docs [Link](https://developers.google.com/season-of-docs)
+	    Organizations announced  
   >- ***Google Season of Docs*** is a program giving technical writers an opportunity to contribute to open source projects, by paying them a three month stipend and facilitating connections between writers and projects. As a platform that’s all about supporting the open source community, we think this is fantastic, because a lot of open source projects really need documentation help.  
   
-  ###  2-ESA Summer of Code in Spacem[Link](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/SOCIS_The_ESA_Summer_of_Code_in_Space)  
+  ###  2-ESA Summer of Code in Space [Link](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/SOCIS_The_ESA_Summer_of_Code_in_Space)  
 	    Open Source Software Submission Deadline  
   >- ***ESA Summer of Code in Space*** (SOCIS) is a program run by the European Space Agency that focuses on bringing student developers into open source software development for space applications. Students work with a mentoring organization (with potential support from ESA experts) on a 3 month programming project during their summer break.  
   ###  3- OSS World Challenge [Link](https://www.oss.kr/en_oss_world_challenage)  
@@ -127,7 +131,8 @@ The Only requirement is an enthusiastic heart to learn.
 # <u> :running: `June` :hourglass_flowing_sand: </u>  
 - ## :high_brightness: Open Source Event  
   
-	 ###  1- Linux Kernel Mentorship Programlink [Link](https://wiki.linuxfoundation.org/lkmp)    Fall Program  
+	 ###  1- Linux Kernel Mentorship Programlink [Link](https://wiki.linuxfoundation.org/lkmp)
+	    Fall Program  
   >- The  [Linux Kernel Mentorship Program](https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing "https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing")  offers a structured remote learning opportunity to aspiring Linux Kernel developers. Experienced Linux Kernel developers and maintainers mentor volunteer mentees and help them become contributors to the Linux Kernel.  
   ###  2- PClub Summer Of Code [Link](http://pclubsummerofcode.in)  
 	>- PClub Summer of Code is the 2 month long Open Source program during summers conducted by Programming Club, UIET, with an aim to help beginners get started with Open Source Development while encouraging diversity.  
@@ -138,7 +143,8 @@ The Only requirement is an enthusiastic heart to learn.
 # <u> :horse_racing: `July` :computer: </u>  
 - ## :high_brightness: Open Source Event  
   
-	 ###  1- Alibaba Summer of Code [Link](https://alibaba.github.io)    Work begin  
+	 ###  1- Alibaba Summer of Code [Link](https://alibaba.github.io)
+	    Work begin  
   >- ***Alibaba Summer of Code*** is a global program focused on engaging students directly into open source software development. Under the guidance of the mentor in the Alibaba open source project, students experience the software development in the real world.  
 	 >- On this exclusive developer journey, students will have the opportunity to: Participate in the top projects of the International Open Source Foundation, Get a fast pass of Alibaba Internship/recruitment.  
 
@@ -147,7 +153,8 @@ The Only requirement is an enthusiastic heart to learn.
 # <u> :beers: `August` :mag:</u>  
 - ## :1st_place_medal: Hackathon  
   
-	 ### 1- InOut Hackathon  [Link](https://hackinout.co)    Application period start  
+	 ### 1- InOut Hackathon  [Link](https://hackinout.co)
+	    Application period start  
    >- ***InOut*** prides itself on being India’s biggest community hackathon.  
 	 >- Since its inception in 2015, InOut has been a platform where technology leaders and the brightest minds come together to collaborate on building tools that solve real problems.   
 
@@ -166,7 +173,7 @@ The Only requirement is an enthusiastic heart to learn.
    >- ***MDG*** is an active student group of IIT Roorkee directing its efforts towards creating useful mobile applications and promoting tech-based learning for the same.  
 	 >- Perks - Direct Interview, Mentorship from MDG, T-Shirts and Goodies  
   ### 3- Semester Long Project- DAIICT [Link](https://slop.dscdaiict.in/)  
-	   Student Application Begins 
+        Student Application Begins 
    >- ***SLoP*** or *Semester Long Project* is an initiative by the Developer Student Club (DA-IICT), exclusively for students who are new to open source software development to get started with open source contributions.  
 	 >- Objective is to increase the development culture and involvement of students with open-source technologies which will present the benefits of open source as well as introduce them to the cutting edge tech and coding practices. 
  
@@ -184,11 +191,11 @@ The Only requirement is an enthusiastic heart to learn.
   ###  3- Linux Kernel Mentorship Programlink [Link](https://wiki.linuxfoundation.org/lkmp)  
 	    Spring Program  
   >- The  [Linux Kernel Mentorship Program](https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing "https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing")  offers a structured remote learning opportunity to aspiring Linux Kernel developers. Experienced Linux Kernel developers and maintainers mentor volunteer mentees and help them become contributors to the Linux Kernel.  
-  ###  4-Halite AI Bot Challenge [Link](https://halite.io/)  
+  ###  4- Halite AI Bot Challenge [Link](https://halite.io/)  
 	    Program Start  
   >- ***Halite*** is an artificial intelligence challenge, created by Two Sigma. Participants code bots using the programming language of their choice to compete in an original online multiplayer game.  
   
-  ###  5-NJACK Winter of Code [Link](https://njackwinterofcode.github.io/)  
+  ###  5- NJACK Winter of Code [Link](https://njackwinterofcode.github.io/)  
 		 Program Announced  
   >- ***NJACK Winter of Code*** is an initiative by NJACK, IIT Patna, targeted at students who have never participated in Free or Open Source Software (FOSS) development before, as well as at those who have already become an expert in Open Source Development and are currently contributing to projects of any domain, say Web, Mobile, Machine Learning, Blockchain, IoT etc.  
 
@@ -210,7 +217,7 @@ The Only requirement is an enthusiastic heart to learn.
 # <u> :earth_americas: `December` :flight_departure: </u>  
 - ## :1st_place_medal: Hackathon  
   
-	 ### 1- SIH (Smart India Hackathon) [Link](https://www.sih.gov.in)  [Linkdin](https://www.linkedin.com/company/smart-india-hackathon-2020/)    
+	 ### 1- SIH (Smart India Hackathon) [Link](https://www.sih.gov.in)  [Linkedin](https://www.linkedin.com/company/smart-india-hackathon-2020/)    
 		 Registration Start  
    >-   ***World’s Biggest Hackathon and Open Innovation model***, an initiative by Ministry of HRD 4th edition of highly successful.  
 	 >-   Smart India Hackathon initiative Involves 2 Lakh+ students with 57,000+ ideas from 2200+ institutions against 530+ problem statements provided by 120+ organizations from across India. >-   Be part of World’s biggest Open Innovation Movement Opportunity to work with some of the best talents in the country.

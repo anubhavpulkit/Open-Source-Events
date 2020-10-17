@@ -34,7 +34,7 @@ The Only requirement is an enthusiastic heart to learn.
   
 - ## :high_brightness: Open Source Event  
   
-	 ### 1- STEP(Google) [Link](https://careers.google.com/students/engineering-and-technical-internships/)     
+  ### 1- STEP(Google) [Link](https://careers.google.com/students/engineering-and-technical-internships/)     
 		 Deadline for applications  
    >- ***STEP*** program is a developmental opportunity for ***first- and second-year undergraduate students*** with a passion for technology—especially students from historically underrepresented groups in the field.  
   ### 2- Google Summer of Code [Link](https://summerofcode.withgoogle.com)  
@@ -42,14 +42,14 @@ The Only requirement is an enthusiastic heart to learn.
    >-  ***Google Summer of Code*** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.  
   
   ### 3- Open Mainframe Project Mentorship Program- Linux Foundation [Link](https://www.openmainframeproject.org/projects/mentorship-program)  
-	    Deadline for applications  
+        Deadline for applications  
   >-  The ***Open Mainframe Project*** funds mentees to complete projects during the period between semesters in the months of May, June, July, August, and September. Upon successful completion of the mentorship, mentees are invited to present at an industry conference. The Open Mainframe Project funds to travel and expenses for mentees.  
   - First Program: July 1 – September 30  
    - Second Program: August 1 – October 31  
    - Third Program: September 1 – November 30  
      
    ### 4- Red Hat Open Source Contest [Link](https://research.redhat.com/red-hat-open-source-contest/)  
-    Project list available  
+        Project list available  
   >-  ***Red Hat Open Source Contest*** is a competition for students during which we want to show students how easy it is to participate in open source projects. Students can also get feedback on their code and get it included in a real project. By participating in the Red Hat Open Source Contest students can win nice prizes.  
 	 >- Exceptional participants may receive offers for an internship at Red Hat. The overall contest winner receives an e-shop coupon worth 10,000 CZK  <br>  
   
@@ -79,7 +79,7 @@ The Only requirement is an enthusiastic heart to learn.
   >- This is an educational opportunity to work with the organization that sponsors the GNU Project, publishes the GNU General Public License (GPL), and fights for software freedom.  
   ###  6 - Linux Foundation Networking Mentorship [Link](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)  
   >- The LF Networking (LFN) intern/mentorship program is aimed at creating a structured hands-on learning opportunity for new developers who may otherwise lack the opportunity to gain exposure to open source software development and entry to the LFN projects' technical communities.  
-	 >- Each mentee will apply and be matched with a mentor or mentors who are active developers and technologiests contributing to the industry's leading open source networking projects such as ONAP, OPNFV, OpenDaylight, FD.io. Each mentee will work remotely from his/her location of choice.  
+	 >- Each mentee will apply and be matched with a mentor or mentors who are active developers and technologists contributing to the industry's leading open source networking projects such as ONAP, OPNFV, OpenDaylight, FD.io. Each mentee will work remotely from his/her location of choice.  
 
 <br>  
   
@@ -168,7 +168,7 @@ The Only requirement is an enthusiastic heart to learn.
   ### 3- Semester Long Project- DAIICT [Link](https://slop.dscdaiict.in/)  
 	   Student Application Begins 
    >- ***SLoP*** or *Semester Long Project* is an initiative by the Developer Student Club (DA-IICT), exclusively for students who are new to open source software development to get started with open source contributions.  
-	 >- We want to increase the development culture and involvement of students with open-source technologies which will present the benefits of open source as well as introduce them to the cutting edge tech and coding practices. 
+	 >- Objective is to increase the development culture and involvement of students with open-source technologies which will present the benefits of open source as well as introduce them to the cutting edge tech and coding practices. 
  
 <br>  
    
@@ -177,7 +177,7 @@ The Only requirement is an enthusiastic heart to learn.
 - ## :high_brightness: Open Source Event          
       
     ### 1- Hacktoberfest [Link](https://hacktoberfest.digitalocean.com)  
-     countdown start  
+        countdown start  
    >- ***Hacktoberfest*** is a month-long celebration of open source software run by DigitalOcean and DEV. Hacktoberfest is open to everyone in our global community. To participate, four pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.  
   ### 2- Pycon [Link](https://in.pycon.org/2020/)  
    >- ***Pycon*** is the premier conference in India on using and developing the Python programming language.  

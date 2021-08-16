@@ -137,7 +137,9 @@ The Only requirement is an enthusiastic heart to learn.
   ###  2- PClub Summer Of Code [Link](http://pclubsummerofcode.in)  
 	>- PClub Summer of Code is the 2 month long Open Source program during summers conducted by Programming Club, UIET, with an aim to help beginners get started with Open Source Development while encouraging diversity.  
 	 >- PSoC is targeted at audience who want to dwell in OpenSource Development as well as who are already into FOSS development. This program will help students for other opensource programs like Gsoc, Outreachy, etc.  
-
+  ### 3- Summer ISCAS Open Source Promotion Plan [Link](https://summer.iscas.ac.cn/)
+  >- Open Source Promotion Plan is 3 month long Open Source Program during Summer conducted by ISCAS, China. having the aim of to encourages everyone to pay close attention to open source software and open source community, aiming to cultivate and explore more outstanding developers.
+  >- This is a good alternative to Google Summer of Code.
 <br>  
   
 # <u> :horse_racing: `July` :computer: </u>  

@@ -256,27 +256,39 @@ The Only requirement is an enthusiastic heart to learn.
 	 >- ***24 Pull Requests*** goal is to encourage contribution to open source projects during December. The site suggests open projects, highlights tickets that are good for new contributors, provides [guides for contributing](https://24pullrequests.com/contributing) and promotes good contributions submitted each day.  
 	>- The idea is simple: 'Send 24 pull requests between December 1st and December 24th', encouraging contributors to give back to open source projects with little gifts of code throughout December.  <hr>  
 
-<br>  
+<br> 
+
   
 ## 🤝 How to Contribute  
   
 ### For sending a PR:-  
->- Please use any ReadMe editor, my favourite editor is [Stackedit.io](https://stackedit.io/app#).  
->- Follow the pattern of this doc to add new events in the list.  
->- Don't forget to add the link to the event. **(IMPORTANT)**  
->-   Pick an open issue from the  [issue list](https://github.com/anubhavsingh16/Open-Source-Events/issues)  and claim it in the comments. After approval fix the issue and send us a pull request (PR).  
->-   All the PR’s need to be sent to the appropriate branch (usually "master").  
+- Please use any ReadMe editor, my favourite editor is [Stackedit.io](https://stackedit.io/app#).  
+- Follow the pattern of this doc to add new events in the list.  
+- Don't forget to add the link to the event. **(IMPORTANT)**  
+-   Pick an open issue from the  [issue list](https://github.com/anubhavsingh16/Open-Source-Events/issues)  and claim it in the comments. After approval fix the issue and send us a pull request (PR).  
+-   All the PR’s need to be sent to the appropriate branch (usually "master").  
   
 ### To Open an issue:-  
->-   You can create a new issue and send us the fix through a pull request.  
->-   Please go through our issue list first (open as well as closed) and make sure the issue you are reporting does not replicate an issue already reported. If you have issues on multiple pages, report them separately. Do not combine them into a single issue.  
-  
-<br>  
-<hr>  
-  
-📝 **License**  
-<br>  
- Licensed under the [MIT License](https://github.com/gatsbyjs/gatsby/blob/master/LICENSE).  
-  
-💜 **Thanks**  
-  to all of our contributors.
+-   You can create a new issue and send us the fix through a pull request.  
+-   Please go through our issue list first (open as well as closed) and make sure the issue you are reporting does not replicate an issue already reported. If you have issues on multiple pages, report them separately. Do not combine them into a single issue.  
+     
+## 👨‍💻 Author
+
+### 👤 Anubhav Singh
+
+- Twitter: [@anubhavpulkit](https://twitter.com/anubhavpulkit)
+- Github: [@anubhavsingh16](https://github.com/anubhavsingh16)
+- Linkedin: [@anubhav-singh](https://www.linkedin.com/in/anubhav-singh-27512a167/)
+
+## 💪 Thanks to the all Contributors
+
+Thanks a lot for spending your time in helping open source Events grow and help many developers. Thanks a lot! Keep rocking 🍻
+
+Also, check them on [opensourcefrontend/contributors](https://opensourcefrontend.netlify.app/contri.html)
+
+## 🙏 Support
+ 
+<h3 align="center">
+Open source Events needs a ⭐️ from you
+</h3>
+

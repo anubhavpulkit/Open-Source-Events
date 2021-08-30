@@ -1,11 +1,31 @@
-# https://opensourcefrontend.netlify.app.  
-  
-<p align="center">  
- <img width="1000" height="400" src="https://user-images.githubusercontent.com/47811606/79039985-b8c63e00-7c02-11ea-83a7-a7a539d4facd.jpg">  
-</p>  
-  
-## -> This is a collection of ***Open Source events and Hackathons***. Students always forget the dates of Open Source event and recall after the date is over to fill the form.  
-  
+<p align="center">
+  <a href="https://opensourcefrontend.netlify.app">
+    <img alt="Code House" src="https://user-images.githubusercontent.com/47811606/131302378-02493379-4225-4010-b7bc-ca261f9916df.gif">
+  </a>
+</p>
+<h4 align="center">Store House of 300+ Developer events Reminder✨️</h4>
+<p align="center">
+<a href="https://github.com/anubhavsingh16/Open-Source-Events/blob/master/LICENSE" target="blank">
+<img src="https://img.shields.io/github/license/anubhavsingh16/Open-Source-Events?style=flat-square" alt="opensourceEvents licence" />
+</a>
+<a href="https://github.com/anubhavsingh16/Open-Source-Events/fork" target="blank">
+<img src="https://img.shields.io/github/forks/anubhavsingh16/Open-Source-Events?style=flat-square" alt="opensourceEvents forks"/>
+</a>
+<a href="https://github.com/anubhavsingh16/Open-Source-Events/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/anubhavsingh16/Open-Source-Events?style=flat-square" alt="opensourceEvents stars"/>
+</a>
+<a href="https://github.com/anubhavsingh16/Open-Source-Events/issues?q=is%3Aissue+" target="blank">
+<img src="https://img.shields.io/github/issues/anubhavsingh16/Open-Source-Events?style=flat-square" alt="opensourceEvents issues"/>
+</a>
+<a href="https://github.com/anubhavsingh16/Open-Source-Events/pulls?q=is%3Apr" target="blank">
+<img src="https://img.shields.io/github/issues-pr/anubhavsingh16/Open-Source-Events?style=flat-square" alt="opensourceEvents pull-requests"/>
+</a>
+<br>
+
+### Introducing Open Source Events ✌️
+
+This is a collection of ***Open Source events and Hackathons*** on a monthly basis. Students always forget the dates of Open Source event and recall after the date is over to fill the form.  🤟
+   
 <br>  
   
 # <u> :footprints: `January` :seedling: </u>  

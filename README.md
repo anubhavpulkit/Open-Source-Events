@@ -24,7 +24,7 @@
 
 ### Introducing Open Source Events ✌️
 
-This is a collection of ***Open Source events and Hackathons*** on a monthly basis. Students always forget the dates of Open Source event and recall after the date is over to fill the form.  🤟
+This is a collection of ***Open Source events and Hackathons*** on a monthly basis. Students always forget the dates of Open Source event and recall after the date is over to fill the form. 🤟
    
 <br>  
   

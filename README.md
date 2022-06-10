@@ -216,8 +216,11 @@ The Only requirement is an enthusiastic heart to learn.
   ###  4- Halite AI Bot Challenge [Link](https://halite.io/)  
 	    Program Start  
   >- ***Halite*** is an artificial intelligence challenge, created by Two Sigma. Participants code bots using the programming language of their choice to compete in an original online multiplayer game.  
+	### 5- Delta Winter of Code [Link](https://dwoc.io)  
+        student appliation start  
+   >- ***Delta Winter of Code (DWoC)*** is a program operated by Delta Force, NIT Trichy with the aim to introduce programmers to the world of open source software. Participants are given the opportunity to contribute to our projects and to apply with us to complete them. Select participants are mentored by project owners and achieve set goals to complete DWoC successfully.
   
-  ###  5- NJACK Winter of Code [Link](https://njackwinterofcode.github.io/)  
+  ###  6- NJACK Winter of Code [Link](https://njackwinterofcode.github.io/)  
 		 Program Announced  
   >- ***NJACK Winter of Code*** is an initiative by NJACK, IIT Patna, targeted at students who have never participated in Free or Open Source Software (FOSS) development before, as well as at those who have already become an expert in Open Source Development and are currently contributing to projects of any domain, say Web, Mobile, Machine Learning, Blockchain, IoT etc.  
 

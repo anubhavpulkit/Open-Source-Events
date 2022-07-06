@@ -48,7 +48,8 @@ This is a collection of ***Open Source events and Hackathons*** on a monthly bas
   ### 5- OpenCode IIITA [Link](https://opencodeiiita.github.io)  
    >- ***OpenCode*** is a month-long program for students to start their journey in the world of open-source. It starts in January.  
 The Only requirement is an enthusiastic heart to learn.  
-  
+  ### 6- Summer of Bitcoin [Link](https://www.summerofbitcoin.org/)  
+   >- ***Summer of Bitcoin*** a global, online summer internship program focused on introducing university students to bitcoin open-source development and design
 <br>  
 
 # <u> :raising_hand_man: `February` :herb: </u>  

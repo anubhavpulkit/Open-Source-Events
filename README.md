@@ -199,6 +199,11 @@ The Only requirement is an enthusiastic heart to learn.
         Student Application Begins 
    >- ***SLoP*** or *Semester Long Project* is an initiative by the Developer Student Club (DA-IICT), exclusively for students who are new to open source software development to get started with open source contributions.  
 	 >- Objective is to increase the development culture and involvement of students with open-source technologies which will present the benefits of open source as well as introduce them to the cutting edge tech and coding practices. 
+	 ### 4- Open Source India  [Link](https://www.opensourceindia.in/)  
+	    countdown start  
+  >- ***Open Source India*** is Bengaluru's #1 Dev Conference & Workshops
+   >- Open Source India (OSI) is an attempt by the team at Open Source For You magazine in partnership with India’s Open Source community and industry—to bring various stake-holders under one roof.  
+	 >- **The mission of OSI is simple—to accelerate development and deployment of Open Source in India, and beyond.**
  
 <br>  
    

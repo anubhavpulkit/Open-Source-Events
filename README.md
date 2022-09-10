@@ -175,6 +175,8 @@ The Only requirement is an enthusiastic heart to learn.
 	    Work begin  
   >- ***Alibaba Summer of Code*** is a global program focused on engaging students directly into open source software development. Under the guidance of the mentor in the Alibaba open source project, students experience the software development in the real world.  
 	 >- On this exclusive developer journey, students will have the opportunity to: Participate in the top projects of the International Open Source Foundation, Get a fast pass of Alibaba Internship/recruitment.  
+	### 2- OSS- IIT Dharwad [Link](https://oss2019.github.io/index.html)  
+   >- Open Student Society(OSS) is a community for students to join together to develop, innovate, share and grow together as a community. It is important to note that OSS is not a club, rather a community that welcomes students, from all branches and walks of life, to participate and contribute.
 
 <br>  
   

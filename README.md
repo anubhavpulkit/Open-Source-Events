@@ -26,18 +26,18 @@
 
 This is a collection of ***Open Source events and Hackathons*** on a monthly basis. Students always forget the dates of Open Source event and recall after the date is over to fill the form.  🤟
 
-- [January](https://github.com/anubhavpulkit/Open-Source-Events/edit/master/README.md#-footprints-january-seedling-)
-- [February](https://github.com/anubhavpulkit/Open-Source-Events/edit/master/README.md#-raising_hand_man-february-herb-)
-- [March](https://github.com/anubhavpulkit/Open-Source-Events#-man_technologist-march-four_leaf_clover-)
-- [April](https://github.com/anubhavpulkit/Open-Source-Events#-walking-april-bulb)
-- [May](https://github.com/anubhavpulkit/Open-Source-Events#-massage_man-may-full_moon_with_face)
-- [June](https://github.com/anubhavpulkit/Open-Source-Events#-running-june-hourglass_flowing_sand-)
-- [July](https://github.com/anubhavpulkit/Open-Source-Events#-horse_racing-july-computer-)
-- [August](https://github.com/anubhavpulkit/Open-Source-Events#-beers-august-mag)
-- [September](https://github.com/anubhavpulkit/Open-Source-Events#-taxi-september-spades)
-- [October](https://github.com/anubhavpulkit/Open-Source-Events#-motorcycle-october-dart-)
-- [November](https://github.com/anubhavpulkit/Open-Source-Events#-red_car-november-trophy-)
-- [December](https://github.com/anubhavpulkit/Open-Source-Events#-earth_americas-december-flight_departure-)
+- [January](https://github.com/noobshubham/Open-Source-Events/edit/master/README.md#-footprints-january-seedling-)
+- [February](https://github.com/noobshubham/Open-Source-Events/edit/master/README.md#-raising_hand_man-february-herb-)
+- [March](https://github.com/noobshubham/Open-Source-Events#-man_technologist-march-four_leaf_clover-)
+- [April](https://github.com/noobshubham/Open-Source-Events#-walking-april-bulb)
+- [May](https://github.com/noobshubham/Open-Source-Events#-massage_man-may-full_moon_with_face)
+- [June](https://github.com/noobshubham/Open-Source-Events#-running-june-hourglass_flowing_sand-)
+- [July](https://github.com/noobshubham/Open-Source-Events#-horse_racing-july-computer-)
+- [August](https://github.com/noobshubham/Open-Source-Events#-beers-august-mag)
+- [September](https://github.com/noobshubham/Open-Source-Events#-taxi-september-spades)
+- [October](https://github.com/noobshubham/Open-Source-Events#-motorcycle-october-dart-)
+- [November](https://github.com/noobshubham/Open-Source-Events#-red_car-november-trophy-)
+- [December](https://github.com/noobshubham/Open-Source-Events#-earth_americas-december-flight_departure-)
    
 <br>  
   

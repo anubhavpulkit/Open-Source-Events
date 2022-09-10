@@ -152,7 +152,7 @@ The Only requirement is an enthusiastic heart to learn.
 # <u> :running: `June` :hourglass_flowing_sand: </u>  
 - ## :high_brightness: Open Source Event  
   
-	 ###  1- Linux Kernel Mentorship Programlink [Link](https://wiki.linuxfoundation.org/lkmp)
+	 ###  1- Linux Kernel Mentorship Program [Link](https://wiki.linuxfoundation.org/lkmp)
 	    Fall Program  
   >- The  [Linux Kernel Mentorship Program](https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing "https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing")  offers a structured remote learning opportunity to aspiring Linux Kernel developers. Experienced Linux Kernel developers and maintainers mentor volunteer mentees and help them become contributors to the Linux Kernel.  
   ###  2- PClub Summer Of Code [Link](http://pclubsummerofcode.in)  
@@ -161,6 +161,11 @@ The Only requirement is an enthusiastic heart to learn.
   ### 3- Summer ISCAS Open Source Promotion Plan [Link](https://summer.iscas.ac.cn/)
   >- Open Source Promotion Plan is 3 month long Open Source Program during Summer conducted by ISCAS, China. having the aim of to encourages everyone to pay close attention to open source software and open source community, aiming to cultivate and explore more outstanding developers.
   >- This is a good alternative to Google Summer of Code.
+    ### 4- Summer School 2022 by DTU  [Link](https://robotechlabs.com/summer-school/)  
+        Student Application Begins in January
+  >- Four Week Intensive Internship cum Training Program  
+   >- Summer School 2022 will focus on implementation of Artificial Intelligence concepts including Data Analysis and Machine Learning and will provide you with the working knowledge of every domain.
+	 >- Program is open to all the students who are willing to learn and experience technology.
 <br>  
   
 # <u> :horse_racing: `July` :computer: </u>  

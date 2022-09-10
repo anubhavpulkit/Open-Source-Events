@@ -177,6 +177,9 @@ The Only requirement is an enthusiastic heart to learn.
 	 >- On this exclusive developer journey, students will have the opportunity to: Participate in the top projects of the International Open Source Foundation, Get a fast pass of Alibaba Internship/recruitment.  
 	### 2- OSS- IIT Dharwad [Link](https://oss2019.github.io/index.html)  
    >- Open Student Society(OSS) is a community for students to join together to develop, innovate, share and grow together as a community. It is important to note that OSS is not a club, rather a community that welcomes students, from all branches and walks of life, to participate and contribute.
+     ### 3- KOSS-Kharagpur Open Source Society [Link](https://kossiitkgp.org/index.html)  
+   >- Every year KOSS plans to hold events for familiarizing students with UNIX tools, Linux environment, Git Development Workflow, practice Algorithms and Data Structures, besides conducting workshops on GUI programming, Web development, Android application Development and Hackathons.
+   >- KOSS works under the guidance of Prof. Animesh Mukherjee, Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur.
 
 <br>  
   

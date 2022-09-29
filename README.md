@@ -209,7 +209,7 @@ The Only requirement is an enthusiastic heart to learn.
     ### 1- Hacktoberfest [Link](https://hacktoberfest.digitalocean.com)  
         countdown start  
    >- ***Hacktoberfest*** is a month-long celebration of open source software run by DigitalOcean and DEV. Hacktoberfest is open to everyone in our global community. To participate, four pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.  
-  ### 2- Pycon [Link](https://in.pycon.org/2020/)  
+  ### 2- Pycon [Link](https://in.pycon.org/2021/)  
    >- ***Pycon*** is the premier conference in India on using and developing the Python programming language.  
   ###  3- Linux Kernel Mentorship Programlink [Link](https://wiki.linuxfoundation.org/lkmp)  
 	    Spring Program  

@@ -25,6 +25,19 @@
 ### Introducing Open Source Events ✌️
 
 This is a collection of ***Open Source events and Hackathons*** on a monthly basis. Students always forget the dates of Open Source event and recall after the date is over to fill the form.  🤟
+
+- [January](https://github.com/anubhavpulkit/Open-Source-Events#-footprints-january-seedling-)
+- [February](https://github.com/anubhavpulkit/Open-Source-Events#-raising_hand_man-february-herb-)
+- [March](https://github.com/anubhavpulkit/Open-Source-Events#-man_technologist-march-four_leaf_clover-)
+- [April](https://github.com/anubhavpulkit/Open-Source-Events#-walking-april-bulb)
+- [May](https://github.com/anubhavpulkit/Open-Source-Events#-massage_man-may-full_moon_with_face)
+- [June](https://github.com/anubhavpulkit/Open-Source-Events#-running-june-hourglass_flowing_sand-)
+- [July](https://github.com/anubhavpulkit/Open-Source-Events#-horse_racing-july-computer-)
+- [August](https://github.com/anubhavpulkit/Open-Source-Events#-beers-august-mag)
+- [September](https://github.com/anubhavpulkit/Open-Source-Events#-taxi-september-spades)
+- [October](https://github.com/anubhavpulkit/Open-Source-Events#-motorcycle-october-dart-)
+- [November](https://github.com/anubhavpulkit/Open-Source-Events#-red_car-november-trophy-)
+- [December](https://github.com/anubhavpulkit/Open-Source-Events#-earth_americas-december-flight_departure-)
    
 <br>  
   
@@ -152,7 +165,7 @@ The Only requirement is an enthusiastic heart to learn.
 # <u> :running: `June` :hourglass_flowing_sand: </u>  
 - ## :high_brightness: Open Source Event  
   
-	 ###  1- Linux Kernel Mentorship Programlink [Link](https://wiki.linuxfoundation.org/lkmp)
+	 ###  1- Linux Kernel Mentorship Program [Link](https://wiki.linuxfoundation.org/lkmp)
 	    Fall Program  
   >- The  [Linux Kernel Mentorship Program](https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing "https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing")  offers a structured remote learning opportunity to aspiring Linux Kernel developers. Experienced Linux Kernel developers and maintainers mentor volunteer mentees and help them become contributors to the Linux Kernel.  
   ###  2- PClub Summer Of Code [Link](http://pclubsummerofcode.in)  
@@ -161,6 +174,11 @@ The Only requirement is an enthusiastic heart to learn.
   ### 3- Summer ISCAS Open Source Promotion Plan [Link](https://summer.iscas.ac.cn/)
   >- Open Source Promotion Plan is 3 month long Open Source Program during Summer conducted by ISCAS, China. having the aim of to encourages everyone to pay close attention to open source software and open source community, aiming to cultivate and explore more outstanding developers.
   >- This is a good alternative to Google Summer of Code.
+    ### 4- Summer School 2022 by DTU  [Link](https://robotechlabs.com/summer-school/)  
+        Student Application Begins in January
+  >- Four Week Intensive Internship cum Training Program  
+   >- Summer School 2022 will focus on implementation of Artificial Intelligence concepts including Data Analysis and Machine Learning and will provide you with the working knowledge of every domain.
+	 >- Program is open to all the students who are willing to learn and experience technology.
 <br>  
   
 # <u> :horse_racing: `July` :computer: </u>  
@@ -170,6 +188,11 @@ The Only requirement is an enthusiastic heart to learn.
 	    Work begin  
   >- ***Alibaba Summer of Code*** is a global program focused on engaging students directly into open source software development. Under the guidance of the mentor in the Alibaba open source project, students experience the software development in the real world.  
 	 >- On this exclusive developer journey, students will have the opportunity to: Participate in the top projects of the International Open Source Foundation, Get a fast pass of Alibaba Internship/recruitment.  
+	### 2- OSS- IIT Dharwad [Link](https://oss2019.github.io/index.html)  
+   >- Open Student Society(OSS) is a community for students to join together to develop, innovate, share and grow together as a community. It is important to note that OSS is not a club, rather a community that welcomes students, from all branches and walks of life, to participate and contribute.
+     ### 3- KOSS-Kharagpur Open Source Society [Link](https://kossiitkgp.org/index.html)  
+   >- Every year KOSS plans to hold events for familiarizing students with UNIX tools, Linux environment, Git Development Workflow, practice Algorithms and Data Structures, besides conducting workshops on GUI programming, Web development, Android application Development and Hackathons.
+   >- KOSS works under the guidance of Prof. Animesh Mukherjee, Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur.
 
 <br>  
   
@@ -199,6 +222,11 @@ The Only requirement is an enthusiastic heart to learn.
         Student Application Begins 
    >- ***SLoP*** or *Semester Long Project* is an initiative by the Developer Student Club (DA-IICT), exclusively for students who are new to open source software development to get started with open source contributions.  
 	 >- Objective is to increase the development culture and involvement of students with open-source technologies which will present the benefits of open source as well as introduce them to the cutting edge tech and coding practices. 
+	 ### 4- Open Source India  [Link](https://www.opensourceindia.in/)  
+	    countdown start  
+  >- ***Open Source India*** is Bengaluru's #1 Dev Conference & Workshops
+   >- Open Source India (OSI) is an attempt by the team at Open Source For You magazine in partnership with India’s Open Source community and industry—to bring various stake-holders under one roof.  
+	 >- **The mission of OSI is simple—to accelerate development and deployment of Open Source in India, and beyond.**
  
 <br>  
    
@@ -217,8 +245,11 @@ The Only requirement is an enthusiastic heart to learn.
   ###  4- Halite AI Bot Challenge [Link](https://halite.io/)  
 	    Program Start  
   >- ***Halite*** is an artificial intelligence challenge, created by Two Sigma. Participants code bots using the programming language of their choice to compete in an original online multiplayer game.  
+	### 5- Delta Winter of Code [Link](https://dwoc.io)  
+        student appliation start  
+   >- ***Delta Winter of Code (DWoC)*** is a program operated by Delta Force, NIT Trichy with the aim to introduce programmers to the world of open source software. Participants are given the opportunity to contribute to our projects and to apply with us to complete them. Select participants are mentored by project owners and achieve set goals to complete DWoC successfully.
   
-  ###  5- NJACK Winter of Code [Link](https://njackwinterofcode.github.io/)  
+  ###  6- NJACK Winter of Code [Link](https://njackwinterofcode.github.io/)  
 		 Program Announced  
   >- ***NJACK Winter of Code*** is an initiative by NJACK, IIT Patna, targeted at students who have never participated in Free or Open Source Software (FOSS) development before, as well as at those who have already become an expert in Open Source Development and are currently contributing to projects of any domain, say Web, Mobile, Machine Learning, Blockchain, IoT etc.  
 

@@ -265,7 +265,10 @@ The Only requirement is an enthusiastic heart to learn.
 	>- I_Hack comprises of 3 parallel tracks : **BLOCKCHAIN TRACK**, **SOFTWARE TRACK**, **DATA TRACK**.  
   
 - ## :high_brightness: Open Source Event  
-    
+
+	### 2- Open Source Experience [Link](https://www.opensource-experience.com/)  
+	>-   ***Open Source Experience*** is a multi-day and physical event in Paris (France) which is intended to be the "European Meeting place for the Open Source Community". Conferences and stands from and for open source professionals.
+
 <br>  
   
 # <u> :earth_americas: `December` :flight_departure: </u>  
